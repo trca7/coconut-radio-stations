@@ -1,0 +1,1874 @@
+{
+  "version": 1,
+  "revision": 2026093008,
+  "myStationID": "2C424408-0836-55B4-AF41-90E65BC4A09F",
+  "categories": [
+    {
+      "id": "gulf_coast",
+      "title": "Gulf Coast & Florida",
+      "group": "Americas",
+      "default": true,
+      "languages": []
+    },
+    {
+      "id": "new_orleans",
+      "title": "New Orleans",
+      "group": "Americas",
+      "default": true,
+      "languages": []
+    },
+    {
+      "id": "caribbean",
+      "title": "Caribbean",
+      "group": "Americas",
+      "default": true,
+      "languages": []
+    },
+    {
+      "id": "west_africa_fr",
+      "title": "Afrique de l'Ouest",
+      "group": "Africa",
+      "default": true,
+      "languages": []
+    },
+    {
+      "id": "west_africa",
+      "title": "West Africa",
+      "group": "Africa",
+      "default": true,
+      "languages": []
+    },
+    {
+      "id": "south_africa",
+      "title": "South Africa",
+      "group": "Africa",
+      "default": true,
+      "languages": []
+    },
+    {
+      "id": "vietnam",
+      "title": "Việt Nam",
+      "group": "Vietnamese",
+      "default": false,
+      "languages": [
+        "vi"
+      ]
+    },
+    {
+      "id": "vietnamese_us",
+      "title": "Vietnamese in America",
+      "group": "Vietnamese",
+      "default": false,
+      "languages": [
+        "vi"
+      ]
+    },
+    {
+      "id": "world_music",
+      "title": "World Music",
+      "group": "Music",
+      "default": true,
+      "languages": []
+    },
+    {
+      "id": "jazz",
+      "title": "Jazz",
+      "group": "Music",
+      "default": true,
+      "languages": []
+    },
+    {
+      "id": "classic_country",
+      "title": "Classic Country",
+      "group": "Music",
+      "default": true,
+      "languages": []
+    },
+    {
+      "id": "public_college",
+      "title": "Public & College",
+      "group": "News & Public Radio",
+      "default": true,
+      "languages": []
+    },
+    {
+      "id": "news",
+      "title": "News",
+      "group": "News & Public Radio",
+      "default": true,
+      "languages": []
+    }
+  ],
+  "stations": [
+    {
+      "id": "78525119-AC0D-48AD-BD5D-BAE5ED512DBA",
+      "name": "Irie FM",
+      "url": "https://stream.iriefm.net:8008/stream",
+      "categories": [
+        "caribbean"
+      ],
+      "tags": [],
+      "countryCode": "JM",
+      "language": null,
+      "artwork": "logo-78525119-ac0",
+      "city": null,
+      "genre": "Reggae"
+    },
+    {
+      "id": "20164ED9-C400-4AA1-8E73-EBB8DD5D8401",
+      "name": "Radio Jamaica 94 FM",
+      "url": "https://stream.zeno.fm/ebqnzkvyv9duv",
+      "categories": [
+        "caribbean"
+      ],
+      "tags": [
+        "partner_ads"
+      ],
+      "countryCode": "JM",
+      "language": "english",
+      "artwork": null,
+      "city": null,
+      "genre": "Variety"
+    },
+    {
+      "id": "A71B4957-E7D9-4D22-89FD-08D1311C12F8",
+      "name": "HOTT 95.3FM",
+      "url": "https://ice64.securenetsystems.net/HOTT953",
+      "categories": [
+        "caribbean"
+      ],
+      "tags": [],
+      "countryCode": "BB",
+      "language": "english",
+      "artwork": null,
+      "city": null,
+      "genre": "Caribbean Hits"
+    },
+    {
+      "id": "98920FEE-500C-49C8-A973-FF4179967F50",
+      "name": "Radio Rebelde 1180 AM",
+      "url": "https://icecast.teveo.cu/kHKL7tWd",
+      "categories": [
+        "caribbean"
+      ],
+      "tags": [],
+      "countryCode": "CU",
+      "language": null,
+      "artwork": "logo-98920fee-500",
+      "city": null,
+      "genre": "News & Talk"
+    },
+    {
+      "id": "F288200C-0093-4A5F-8AAC-9E043879B7D9",
+      "name": "Radio Humilite",
+      "url": "https://stream-286.surfernetwork.com/qhlllaz21cmuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJxaGxsbGF6MjFjbXV2IiwiaG9zdCI6InN0cmVhbS0yODYuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6IjZSRy1BZFI5UVp5bU5RakEzVmdnMnciLCJpYXQiOjE3OTA0MDI4MTgsImV4cCI6MTc5MDQwMjg3OH0.wRINKXFSANceAMQfKPzreVoYSVLjrSqW1CaHozHnPs8",
+      "categories": [
+        "caribbean"
+      ],
+      "tags": [
+        "partner_ads"
+      ],
+      "countryCode": "HT",
+      "language": "american english",
+      "artwork": null,
+      "city": null,
+      "genre": "Gospel"
+    },
+    {
+      "id": "701106B9-59E3-11EA-BE63-52543BE04C81",
+      "name": "SomaFM Heavyweight Reggae",
+      "url": "https://ice2.somafm.com/reggae-256-mp3",
+      "categories": [
+        "caribbean"
+      ],
+      "tags": [],
+      "countryCode": "US",
+      "language": "english",
+      "artwork": "logo-701106b9-59e",
+      "city": "San Francisco, CA",
+      "genre": "Reggae"
+    },
+    {
+      "id": "1C7B2753-6600-491C-9534-00CCC43D3471",
+      "name": "Scorch Radio 101.1FM",
+      "url": "https://stream.velalabs.co/scorch",
+      "categories": [
+        "caribbean"
+      ],
+      "tags": [],
+      "countryCode": "TT",
+      "language": "english",
+      "artwork": null,
+      "city": null,
+      "genre": "Soca"
+    },
+    {
+      "id": "31384B28-8B42-4838-AA46-B8F57E570603",
+      "name": "Slam 100.5",
+      "url": "https://www.radiomast.io/stream/68540e88-54b8-4924-b098-5a668f7da7b6/listen",
+      "categories": [
+        "caribbean"
+      ],
+      "tags": [],
+      "countryCode": "TT",
+      "language": "english",
+      "artwork": "logo-31384b28-8b4",
+      "city": null,
+      "genre": "Soca"
+    },
+    {
+      "id": "3B76E46F-66E0-4694-9627-9ED8BDC9D25E",
+      "name": "BurningSoca",
+      "url": "http://176.9.121.230:8000/soca",
+      "categories": [
+        "caribbean"
+      ],
+      "tags": [],
+      "countryCode": "TT",
+      "language": "english",
+      "artwork": "logo-3b76e46f-66e",
+      "city": null,
+      "genre": "Soca"
+    },
+    {
+      "id": "8FB9C164-D194-11E9-A861-52543BE04C81",
+      "name": "Martinique 1ère",
+      "url": "http://martinique.ice.infomaniak.ch/martinique-128.mp3",
+      "categories": [
+        "caribbean"
+      ],
+      "tags": [],
+      "countryCode": "MQ",
+      "language": null,
+      "artwork": "logo-8fb9c164-d19",
+      "city": null,
+      "genre": "Variety"
+    },
+    {
+      "id": "FB524C25-2794-4E57-9E9D-5569BAC6F906",
+      "name": "Radio Zoukla",
+      "url": "https://ecmanager4.pro-fhi.net:2605/stream",
+      "categories": [
+        "caribbean"
+      ],
+      "tags": [],
+      "countryCode": "MQ",
+      "language": null,
+      "artwork": "logo-fb524c25-279",
+      "city": null,
+      "genre": "Zouk"
+    },
+    {
+      "id": "7E9E4C3F-9692-4C62-AF52-6437AD9CBBC1",
+      "name": "Antilles Média Kompa Gold",
+      "url": "https://antillesmedia.pro-fhi.net/antillesmediakompa",
+      "categories": [
+        "caribbean"
+      ],
+      "tags": [],
+      "countryCode": "GP",
+      "language": "creole",
+      "artwork": "logo-7e9e4c3f-969",
+      "city": null,
+      "genre": "Kompa"
+    },
+    {
+      "id": "BA41C7A6-D193-11E9-A861-52543BE04C81",
+      "name": "Guadeloupe 1ère",
+      "url": "https://guadeloupe.ice.infomaniak.ch/guadeloupe-128.mp3",
+      "categories": [
+        "caribbean"
+      ],
+      "tags": [],
+      "countryCode": "GP",
+      "language": null,
+      "artwork": "logo-ba41c7a6-d19",
+      "city": null,
+      "genre": "Variety"
+    },
+    {
+      "id": "960EBCF5-0601-11E8-AE97-52543BE04C81",
+      "name": "La Grosse Radio Reggae",
+      "url": "http://hd.lagrosseradio.info/lagrosseradio-reggae-192.mp3",
+      "categories": [
+        "caribbean"
+      ],
+      "tags": [],
+      "countryCode": "FR",
+      "language": "french",
+      "artwork": "logo-960ebcf5-060",
+      "city": null,
+      "genre": "Reggae"
+    },
+    {
+      "id": "4BA828BB-EC19-4285-B46D-1A534CDDD8A9",
+      "name": "RTS 92.5 RSI",
+      "url": "https://10gb1.acangroup.org:8000/rsi",
+      "categories": [
+        "west_africa_fr"
+      ],
+      "tags": [],
+      "countryCode": "SN",
+      "language": "french",
+      "artwork": null,
+      "city": null,
+      "genre": "News & Talk"
+    },
+    {
+      "id": "2A1973EA-2E51-40C4-B379-36CAC2464AD7",
+      "name": "Sud FM Sen Radio",
+      "url": "http://stream.zenolive.com/rq40edfn3reuv",
+      "categories": [
+        "west_africa_fr"
+      ],
+      "tags": [
+        "partner_ads"
+      ],
+      "countryCode": "SN",
+      "language": "french",
+      "artwork": "logo-2a1973ea-2e5",
+      "city": null,
+      "genre": "News & Talk"
+    },
+    {
+      "id": "6ED6FE06-5A9A-4E95-BC35-8E92F1441CFD",
+      "name": "FM Sénégal 103.1 Dakar",
+      "url": "https://stream-154.zeno.fm/t8gcyq6ts0quv",
+      "categories": [
+        "west_africa_fr"
+      ],
+      "tags": [
+        "partner_ads"
+      ],
+      "countryCode": "SN",
+      "language": "french",
+      "artwork": null,
+      "city": null,
+      "genre": "Variety"
+    },
+    {
+      "id": "AAA5F838-2DEA-4E70-8D03-B536265BDBFC",
+      "name": "Dakar Musique",
+      "url": "http://listen.senemultimedia.net:8090/stream",
+      "categories": [
+        "west_africa_fr"
+      ],
+      "tags": [],
+      "countryCode": "SN",
+      "language": "french",
+      "artwork": "logo-aaa5f838-2de",
+      "city": null,
+      "genre": "Afropop"
+    },
+    {
+      "id": "0E3D65A4-98A9-43A1-81A8-05647C85D886",
+      "name": "Radio Thiossane",
+      "url": "https://listen.senemultimedia.net:8112/stream",
+      "categories": [
+        "west_africa_fr"
+      ],
+      "tags": [],
+      "countryCode": "SN",
+      "language": "french",
+      "artwork": "logo-0e3d65a4-98a",
+      "city": null,
+      "genre": "Afropop"
+    },
+    {
+      "id": "86F7ED41-909A-4CF6-B147-E6FE3102328E",
+      "name": "Rewmi FM 97.5 Dakar",
+      "url": "https://stream-61.zeno.fm/nkzsqg16t8quv",
+      "categories": [
+        "west_africa_fr"
+      ],
+      "tags": [
+        "partner_ads"
+      ],
+      "countryCode": "SN",
+      "language": "french",
+      "artwork": null,
+      "city": null,
+      "genre": "News & Talk"
+    },
+    {
+      "id": "118A5501-B15D-4FB3-B010-FD0E4FFDA525",
+      "name": "Radio Fulbe FM 102.6 Dakar",
+      "url": "https://stream.zeno.fm/e0grbn8e3rquv",
+      "categories": [
+        "west_africa_fr"
+      ],
+      "tags": [
+        "partner_ads"
+      ],
+      "countryCode": "SN",
+      "language": "fulani",
+      "artwork": null,
+      "city": null,
+      "genre": "News & Talk"
+    },
+    {
+      "id": "1F066F01-284D-41FD-8073-D19449ECF2C5",
+      "name": "Citi FM",
+      "url": "https://citi973fm.radioca.st/index.html:80/;stream.mp3",
+      "categories": [
+        "west_africa"
+      ],
+      "tags": [],
+      "countryCode": "GH",
+      "language": "english",
+      "artwork": "logo-1f066f01-284",
+      "city": null,
+      "genre": "News & Talk"
+    },
+    {
+      "id": "215DBB51-B2AC-4A32-86DC-6C75A4DA07D5",
+      "name": "Joy Fm",
+      "url": "https://mmg.streamguys1.com/JoyFM-mp3?key=8689cc761932e3151f94ddbdbfdf4aa0f4000234b5caeaaa179a2fc0d59a4be9b8b774c3653cb14d1fd76f5cbf80e482&awparams=playerid%3ASGplayer%3B&amsparams=playerid%3ASGplayer%3Bskey%3A1609840716923%3B&aw_0_req.gdpr=true&us_privacy=1YNN",
+      "categories": [
+        "west_africa"
+      ],
+      "tags": [],
+      "countryCode": "GH",
+      "language": "english",
+      "artwork": "logo-215dbb51-b2a",
+      "city": null,
+      "genre": "News & Talk"
+    },
+    {
+      "id": "CE8350CC-19AA-479F-886D-A5260816469B",
+      "name": "Peace FM",
+      "url": "https://peacefm-atunwadigital.streamguys1.com/peacefm?amsparams=playerid%3ASGplayer%3Bskey%3A1611468493100%3B&awparams=playerid%3ASGplayer%3Bplayerid%3ASGplayer%3Bplayerid%3ASGplayer%3B&us_privacy=1YNN&us_privacy=1YNN&us_privacy=1YNN",
+      "categories": [
+        "west_africa"
+      ],
+      "tags": [
+        "partner_ads"
+      ],
+      "countryCode": "GH",
+      "language": "akan",
+      "artwork": null,
+      "city": null,
+      "genre": "News & Talk"
+    },
+    {
+      "id": "A3C93CA9-9891-4249-A805-D622DADEED21",
+      "name": "Cool FM Lagos",
+      "url": "https://coolfmlagos969-atunwadigital.streamguys1.com/coolfmlagos969",
+      "categories": [
+        "west_africa"
+      ],
+      "tags": [
+        "partner_ads"
+      ],
+      "countryCode": "NG",
+      "language": null,
+      "artwork": "logo-a3c93ca9-989",
+      "city": null,
+      "genre": "Afropop"
+    },
+    {
+      "id": "1DFCC339-6292-4BF1-8B21-5C4A099ECD7E",
+      "name": "Wazobia FM Lagos",
+      "url": "https://wazobiafmlagos951-atunwadigital.streamguys1.com/wazobiafmlagos951",
+      "categories": [
+        "west_africa"
+      ],
+      "tags": [
+        "partner_ads"
+      ],
+      "countryCode": "NG",
+      "language": null,
+      "artwork": "logo-1dfcc339-629",
+      "city": null,
+      "genre": "Variety"
+    },
+    {
+      "id": "36D4A771-6A91-454D-A6E4-D55667AA6DD4",
+      "name": "Nigeria Info",
+      "url": "https://nigeriainfofmlagos993-atunwadigital.streamguys1.com/nigeriainfofmlagos993",
+      "categories": [
+        "west_africa"
+      ],
+      "tags": [
+        "partner_ads"
+      ],
+      "countryCode": "NG",
+      "language": null,
+      "artwork": "logo-36d4a771-6a9",
+      "city": null,
+      "genre": "News & Talk"
+    },
+    {
+      "id": "A0D534AD-4446-4A5E-BF03-B5B16AD49223",
+      "name": "Radio Kledu 101.2",
+      "url": "https://stream-156.zeno.fm/yerp85sughwtv",
+      "categories": [
+        "west_africa_fr"
+      ],
+      "tags": [
+        "partner_ads"
+      ],
+      "countryCode": "ML",
+      "language": null,
+      "artwork": null,
+      "city": null,
+      "genre": "News & Talk"
+    },
+    {
+      "id": "666D0D87-F0FB-4B3B-8842-9753B817E3FD",
+      "name": "Radio Cotonou 94.3",
+      "url": "https://stream.zeno.fm/o9bspgm4y78vv",
+      "categories": [
+        "west_africa_fr"
+      ],
+      "tags": [
+        "partner_ads"
+      ],
+      "countryCode": "BJ",
+      "language": "french",
+      "artwork": null,
+      "city": null,
+      "genre": "Variety"
+    },
+    {
+      "id": "4520E100-0609-11EA-AFD6-52543BE04C81",
+      "name": "Kaya FM",
+      "url": "https://edge.iono.fm/xice/82_medium.aac",
+      "categories": [
+        "south_africa"
+      ],
+      "tags": [],
+      "countryCode": "ZA",
+      "language": "english",
+      "artwork": "logo-4520e100-060",
+      "city": null,
+      "genre": "Adult Contemporary"
+    },
+    {
+      "id": "69554E68-F8F1-498B-B845-47C62484C0AE",
+      "name": "Metro FM",
+      "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/METROFMAAC.aac",
+      "categories": [
+        "south_africa"
+      ],
+      "tags": [],
+      "countryCode": "ZA",
+      "language": null,
+      "artwork": null,
+      "city": null,
+      "genre": "Hip-Hop & R&B"
+    },
+    {
+      "id": "9614225B-0601-11E8-AE97-52543BE04C81",
+      "name": "Jacaranda FM",
+      "url": "https://edge.iono.fm/xice/jacarandafm_live_medium.aac",
+      "categories": [
+        "south_africa"
+      ],
+      "tags": [],
+      "countryCode": "ZA",
+      "language": "english",
+      "artwork": "logo-9614225b-060",
+      "city": null,
+      "genre": "Adult Contemporary"
+    },
+    {
+      "id": "AC81DF15-039C-43DF-B944-7462426B9DB5",
+      "name": "Ukhozi FM",
+      "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/UKHOZIFMAAC_SC?dist=triton-widget&pname=tdwidgets",
+      "categories": [
+        "south_africa"
+      ],
+      "tags": [],
+      "countryCode": "ZA",
+      "language": null,
+      "artwork": "logo-ac81df15-039",
+      "city": null,
+      "genre": "Variety"
+    },
+    {
+      "id": "0C5A3D4F-ECD6-430E-BCF4-F51FF1B13D1C",
+      "name": "Talk Radio 702",
+      "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/FM702_192AAC.aac",
+      "categories": [
+        "south_africa"
+      ],
+      "tags": [],
+      "countryCode": "ZA",
+      "language": null,
+      "artwork": "logo-0c5a3d4f-ecd",
+      "city": null,
+      "genre": "News & Talk"
+    },
+    {
+      "id": "7881D719-BAE9-407D-912C-F75174C43403",
+      "name": "East Coast Radio",
+      "url": "https://live.ecr.co.za/ecrhigh.mp3?aw_0_pinpoll=1,2,9&listenerid=94d1ac3bf877b65e4e17cd7e9bfec132&awparams=companionAds%3Atrue&aw_0_1st.ri=iono",
+      "categories": [
+        "south_africa"
+      ],
+      "tags": [],
+      "countryCode": "ZA",
+      "language": null,
+      "artwork": "logo-7881d719-bae",
+      "city": null,
+      "genre": "Adult Contemporary"
+    },
+    {
+      "id": "BED37AD7-1542-4455-96EA-6B7608C7BC8F",
+      "name": "Amapiano FM",
+      "url": "https://stream.zeno.fm/xs6zeac1ts8uv",
+      "categories": [
+        "south_africa"
+      ],
+      "tags": [
+        "partner_ads"
+      ],
+      "countryCode": "ZA",
+      "language": null,
+      "artwork": null,
+      "city": null,
+      "genre": "Amapiano"
+    },
+    {
+      "id": "5C38F647-53C0-4D59-95C8-2C3034953BC4",
+      "name": "Capital Radio 604",
+      "url": "https://streaming.galaxywebsolutions.com/proxy/capitalradio604?mp=/stream",
+      "categories": [
+        "south_africa"
+      ],
+      "tags": [],
+      "countryCode": "ZA",
+      "language": null,
+      "artwork": null,
+      "city": null,
+      "genre": "Classic Rock"
+    },
+    {
+      "id": "21A282BE-44F4-4B8E-AAE9-B4C2041AF4A5",
+      "name": "Radio Paradise World/Etc",
+      "url": "https://stream.radioparadise.com/world-etc-320",
+      "categories": [
+        "world_music"
+      ],
+      "tags": [],
+      "countryCode": "US",
+      "language": "english",
+      "artwork": "logo-21a282be-44f",
+      "city": "Paradise, CA",
+      "genre": "World Music"
+    },
+    {
+      "id": "D61E880E-E8F0-11E9-A96C-52543BE04C81",
+      "name": "Radio Paradise",
+      "url": "http://stream.radioparadise.com/aac-128",
+      "categories": [
+        "world_music"
+      ],
+      "tags": [],
+      "countryCode": "US",
+      "language": "english",
+      "artwork": "logo-d61e880e-e8f",
+      "city": "Paradise, CA",
+      "genre": "Eclectic"
+    },
+    {
+      "id": "E796D05E-F71B-11E9-BBF2-52543BE04C81",
+      "name": "Radio Paradise Mellow",
+      "url": "http://stream.radioparadise.com/mellow-128",
+      "categories": [
+        "world_music"
+      ],
+      "tags": [],
+      "countryCode": "US",
+      "language": "english",
+      "artwork": "logo-e796d05e-f71",
+      "city": "Paradise, CA",
+      "genre": "Chill"
+    },
+    {
+      "id": "932EB148-E6F6-11E9-A96C-52543BE04C81",
+      "name": "FIP",
+      "url": "http://icecast.radiofrance.fr/fip-hifi.aac",
+      "categories": [
+        "world_music"
+      ],
+      "tags": [],
+      "countryCode": "FR",
+      "language": "french",
+      "artwork": null,
+      "city": null,
+      "genre": "Eclectic"
+    },
+    {
+      "id": "84764BDA-EB7E-11E9-A96C-52543BE04C81",
+      "name": "FIP Reggae",
+      "url": "http://icecast.radiofrance.fr/fipreggae-hifi.aac",
+      "categories": [
+        "world_music",
+        "caribbean"
+      ],
+      "tags": [],
+      "countryCode": "FR",
+      "language": "french",
+      "artwork": null,
+      "city": null,
+      "genre": "Reggae"
+    },
+    {
+      "id": "963FB390-0601-11E8-AE97-52543BE04C81",
+      "name": "Radio Nova",
+      "url": "http://novazz.ice.infomaniak.ch/novazz-128.mp3",
+      "categories": [
+        "world_music"
+      ],
+      "tags": [],
+      "countryCode": "FR",
+      "language": "french",
+      "artwork": null,
+      "city": null,
+      "genre": "Eclectic"
+    },
+    {
+      "id": "42C0308B-908D-4243-92E5-05D658ECB781",
+      "name": "KEXP",
+      "url": "https://kexp.streamguys1.com/kexp160.aac?listenerid=f4bcb5c771d830fbdd4195088a946ea6&awparams=companionAds%3Atrue",
+      "categories": [
+        "public_college"
+      ],
+      "tags": [],
+      "countryCode": "US",
+      "language": "english",
+      "artwork": "logo-42c0308b-908",
+      "city": "Seattle, WA",
+      "genre": "Eclectic"
+    },
+    {
+      "id": "7ADA8A81-5AE1-418C-8F18-51D2F38D86A4",
+      "name": "Bossa Jazz Brasil",
+      "url": "https://centova5.transmissaodigital.com:20104/live",
+      "categories": [
+        "jazz",
+        "world_music"
+      ],
+      "tags": [],
+      "countryCode": "BR",
+      "language": "brazilian portuguese",
+      "artwork": null,
+      "city": null,
+      "genre": "Bossa Nova"
+    },
+    {
+      "id": "9614F116-0601-11E8-AE97-52543BE04C81",
+      "name": "SomaFM Suburbs of Goa",
+      "url": "https://ice6.somafm.com/suburbsofgoa-128-aac",
+      "categories": [
+        "world_music"
+      ],
+      "tags": [],
+      "countryCode": "US",
+      "language": "english",
+      "artwork": "logo-9614f116-060",
+      "city": "San Francisco, CA",
+      "genre": "World Music"
+    },
+    {
+      "id": "E04A46BC-426B-4E32-BCC1-1C921901A826",
+      "name": "WWOZ",
+      "url": "https://wwoz-sc.streamguys1.com/wwoz-hi.mp3",
+      "categories": [
+        "new_orleans",
+        "jazz"
+      ],
+      "tags": [],
+      "countryCode": "US",
+      "language": null,
+      "artwork": "logo-e04a46bc-426",
+      "city": "New Orleans, LA",
+      "genre": "Jazz"
+    },
+    {
+      "id": "CE61ECB3-CF9F-4991-B860-32047DEF71ED",
+      "name": "TSF Jazz",
+      "url": "http://tsfjazz.ice.infomaniak.ch/tsfjazz-high.mp3",
+      "categories": [
+        "jazz"
+      ],
+      "tags": [],
+      "countryCode": "FR",
+      "language": null,
+      "artwork": null,
+      "city": null,
+      "genre": "Jazz"
+    },
+    {
+      "id": "98ADECF7-2683-4408-9BE7-02D3F9098EB8",
+      "name": "BBC World Service",
+      "url": "http://stream.live.vc.bbcmedia.co.uk/bbc_world_service",
+      "categories": [
+        "news"
+      ],
+      "tags": [],
+      "countryCode": "GB",
+      "language": "english",
+      "artwork": "logo-98adecf7-268",
+      "city": null,
+      "genre": "News & Talk"
+    },
+    {
+      "id": "960C2914-0601-11E8-AE97-52543BE04C81",
+      "name": "RFI Afrique",
+      "url": "http://live02.rfi.fr/rfiafrique-64.mp3",
+      "categories": [
+        "news"
+      ],
+      "tags": [],
+      "countryCode": "FR",
+      "language": "french",
+      "artwork": null,
+      "city": null,
+      "genre": "News & Talk"
+    },
+    {
+      "id": "960C68F8-0601-11E8-AE97-52543BE04C81",
+      "name": "RFI Monde",
+      "url": "http://live02.rfi.fr/rfimonde-64.mp3",
+      "categories": [
+        "news"
+      ],
+      "tags": [],
+      "countryCode": "FR",
+      "language": "french",
+      "artwork": null,
+      "city": null,
+      "genre": "News & Talk"
+    },
+    {
+      "id": "31074F8A-E6F4-11E9-A96C-52543BE04C81",
+      "name": "France Info",
+      "url": "http://icecast.radiofrance.fr/franceinfo-hifi.aac",
+      "categories": [
+        "news"
+      ],
+      "tags": [],
+      "countryCode": "FR",
+      "language": "french",
+      "artwork": "logo-31074f8a-e6f",
+      "city": null,
+      "genre": "News & Talk"
+    },
+    {
+      "id": "7BA4C184-FC2B-11E9-BBF2-52543BE04C81",
+      "name": "NPR 24/7",
+      "url": "http://npr-ice.streamguys1.com/live.mp3",
+      "categories": [
+        "news"
+      ],
+      "tags": [],
+      "countryCode": "US",
+      "language": "english",
+      "artwork": "logo-7ba4c184-fc2",
+      "city": "Washington, DC",
+      "genre": "Public Radio"
+    },
+    {
+      "id": "33178054-56CD-449C-8CF7-412CC7BE936A",
+      "name": "CNN",
+      "url": "https://tunein.cdnstream1.com/2868_96.mp3",
+      "categories": [
+        "news"
+      ],
+      "tags": [
+        "partner_ads"
+      ],
+      "countryCode": "US",
+      "language": "english",
+      "artwork": "logo-33178054-56c",
+      "city": "Atlanta, GA",
+      "genre": "News & Talk"
+    },
+    {
+      "id": "9A8F2D50-FCA3-4D7C-99EE-C5E0E97F4D1B",
+      "name": "Times Radio",
+      "url": "https://timesradio.wireless.radio/stream",
+      "categories": [
+        "news"
+      ],
+      "tags": [],
+      "countryCode": "GB",
+      "language": "english",
+      "artwork": "logo-9a8f2d50-fca",
+      "city": null,
+      "genre": "News & Talk"
+    },
+    {
+      "id": "98137C2D-CE68-4E33-8CB7-DDF3692ECC9D",
+      "name": "BBC Radio 4",
+      "url": "http://as-hls-ww-live.akamaized.net/pool_55057080/live/ww/bbc_radio_fourfm/bbc_radio_fourfm.isml/bbc_radio_fourfm-audio%3d128000.norewind.m3u8",
+      "categories": [
+        "news"
+      ],
+      "tags": [],
+      "countryCode": "GB",
+      "language": "english",
+      "artwork": "logo-98137c2d-ce6",
+      "city": null,
+      "genre": "News & Talk"
+    },
+    {
+      "id": "D5EF3DE2-CDC3-478B-8582-E42BC1773864",
+      "name": "1.FM Ibiza Chill Tropical",
+      "url": "http://strm112.1.fm/ibizachill_mobile_mp3?aw_0_req.gdpr=true",
+      "categories": [
+        "world_music"
+      ],
+      "tags": [],
+      "countryCode": "CH",
+      "language": "english",
+      "artwork": null,
+      "city": null,
+      "genre": "Chill"
+    },
+    {
+      "id": "010F3354-93AD-487E-8BB3-D84C0B2A9414",
+      "name": "850 WFTL",
+      "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/WFTLAMAAC.aac",
+      "categories": [
+        "gulf_coast"
+      ],
+      "tags": [
+        "fsu_football"
+      ],
+      "countryCode": "US",
+      "language": "english",
+      "artwork": "logo-010f3354-93a",
+      "city": "West Palm Beach, FL",
+      "genre": "News & Talk"
+    },
+    {
+      "id": "3DBAB52F-59D9-5F7B-9014-F219C8737C12",
+      "name": "Radio Mauritanie",
+      "url": "https://ec6.yesstreaming.net:2760/stream",
+      "categories": [
+        "west_africa_fr"
+      ],
+      "tags": [],
+      "countryCode": "MR",
+      "language": "arabic",
+      "artwork": null,
+      "city": null,
+      "genre": "News & Talk"
+    },
+    {
+      "id": "2C424408-0836-55B4-AF41-90E65BC4A09F",
+      "name": "Radio Margaritaville",
+      "url": "https://s12.myradiostream.com:18442/listen.mp3",
+      "categories": [
+        "gulf_coast"
+      ],
+      "tags": [],
+      "countryCode": "US",
+      "language": "english",
+      "artwork": null,
+      "city": "Key West, FL",
+      "genre": "Tropical"
+    },
+    {
+      "id": "A49C2864-C135-5154-A088-1F6B103B0DA5",
+      "name": "Oyster Radio 100.5",
+      "url": "https://oysterradio.ice.infomaniak.ch/oysterradio-192-0-0.mp3",
+      "categories": [
+        "gulf_coast"
+      ],
+      "tags": [],
+      "countryCode": "US",
+      "language": "english",
+      "artwork": "logo-oyster",
+      "city": "Apalachicola, FL",
+      "genre": "Trop Rock"
+    },
+    {
+      "id": "B1A8EF67-10D0-5390-8E55-7A0B5E0FE41F",
+      "name": "V89 WVFS (FSU)",
+      "url": "http://voice.wvfs.fsu.edu:8000/stream",
+      "categories": [
+        "gulf_coast",
+        "public_college"
+      ],
+      "tags": [],
+      "countryCode": "US",
+      "language": "english",
+      "artwork": "logo-wvfs",
+      "city": "Tallahassee, FL",
+      "genre": "College Radio"
+    },
+    {
+      "id": "1AF4FCD2-4522-575C-88BB-EB445B4BF217",
+      "name": "WMNF 88.5",
+      "url": "https://stream.wmnf.org/wmnf_high_quality",
+      "categories": [
+        "gulf_coast"
+      ],
+      "tags": [],
+      "countryCode": "US",
+      "language": "english",
+      "artwork": "logo-wmnf",
+      "city": "Tampa, FL",
+      "genre": "Eclectic"
+    },
+    {
+      "id": "F94415E8-1B2D-5C91-B1C3-94A886E7748E",
+      "name": "WUSF 89.7",
+      "url": "https://streaming.wusf.fm/wusf",
+      "categories": [
+        "gulf_coast",
+        "news",
+        "public_college"
+      ],
+      "tags": [],
+      "countryCode": "US",
+      "language": "english",
+      "artwork": "logo-wusf",
+      "city": "Tampa, FL",
+      "genre": "Public Radio"
+    },
+    {
+      "id": "9DD557F8-3312-501B-82E8-5D683835F93C",
+      "name": "WWNO 89.9",
+      "url": "https://tektite.streamguys1.com:5145/wwnolive",
+      "categories": [
+        "new_orleans",
+        "news",
+        "public_college"
+      ],
+      "tags": [],
+      "countryCode": "US",
+      "language": "english",
+      "artwork": "logo-wwno",
+      "city": "New Orleans, LA",
+      "genre": "Public Radio"
+    },
+    {
+      "id": "1978C3F8-E7CE-5825-9112-16014046DB4C",
+      "name": "WWNO Jazz",
+      "url": "http://tektite.streamguys1.com:5140/wwnojazz-mp3",
+      "categories": [
+        "new_orleans",
+        "jazz"
+      ],
+      "tags": [],
+      "countryCode": "US",
+      "language": "english",
+      "artwork": "logo-wwnojazz",
+      "city": "New Orleans, LA",
+      "genre": "Jazz"
+    },
+    {
+      "id": "1969DA2A-51D9-525E-8106-FB7D5D454FC1",
+      "name": "WTUL 91.5 (Tulane)",
+      "url": "https://stream.wtulneworleans.com/",
+      "categories": [
+        "new_orleans",
+        "public_college"
+      ],
+      "tags": [],
+      "countryCode": "US",
+      "language": "english",
+      "artwork": "logo-wtul",
+      "city": "New Orleans, LA",
+      "genre": "College Radio"
+    },
+    {
+      "id": "12FD5075-394F-5AA1-AC7E-BCAABACC4A93",
+      "name": "Jazz24",
+      "url": "https://knkx-live-a.edge.audiocdn.com/6285_256k",
+      "categories": [
+        "jazz"
+      ],
+      "tags": [],
+      "countryCode": "US",
+      "language": "english",
+      "artwork": "logo-jazz24",
+      "city": "Seattle, WA",
+      "genre": "Jazz"
+    },
+    {
+      "id": "248BF9BD-5D53-51D1-A7EF-5C94BA55AC89",
+      "name": "WBGO Jazz 88.3",
+      "url": "https://ais-sa8.cdnstream1.com/3629_128.mp3",
+      "categories": [
+        "jazz"
+      ],
+      "tags": [],
+      "countryCode": "US",
+      "language": "english",
+      "artwork": "logo-wbgo",
+      "city": "Newark, NJ",
+      "genre": "Jazz"
+    },
+    {
+      "id": "34D15495-395A-521D-8952-AE0CC95F25AB",
+      "name": "KCRW Eclectic 24",
+      "url": "https://streams.kcrw.com/e24_mp3",
+      "categories": [
+        "public_college"
+      ],
+      "tags": [],
+      "countryCode": "US",
+      "language": "english",
+      "artwork": "logo-kcrw-e24",
+      "city": "Santa Monica, CA",
+      "genre": "Eclectic"
+    },
+    {
+      "id": "91AB0458-F530-5DCF-AFE8-3F637FD702C0",
+      "name": "WXPN 88.5",
+      "url": "https://wxpnhi.xpn.org/xpnhi",
+      "categories": [
+        "public_college"
+      ],
+      "tags": [],
+      "countryCode": "US",
+      "language": "english",
+      "artwork": "logo-wxpn",
+      "city": "Philadelphia, PA",
+      "genre": "Eclectic"
+    },
+    {
+      "id": "351270BF-B84C-5CAD-A267-D7C05BBFAEFD",
+      "name": "KUTX 98.9",
+      "url": "https://streams.kut.org/4428_192.mp3",
+      "categories": [
+        "public_college"
+      ],
+      "tags": [],
+      "countryCode": "US",
+      "language": "english",
+      "artwork": null,
+      "city": "Austin, TX",
+      "genre": "Eclectic"
+    },
+    {
+      "id": "127A4B03-F278-5668-82C3-62CF3CE8C275",
+      "name": "WFMU 91.1",
+      "url": "http://stream2.wfmu.org/freeform-128k",
+      "categories": [
+        "public_college"
+      ],
+      "tags": [],
+      "countryCode": "US",
+      "language": "english",
+      "artwork": null,
+      "city": "Jersey City, NJ",
+      "genre": "Eclectic"
+    },
+    {
+      "id": "97667BAC-538A-5EC0-A6B5-0F1EEC429D58",
+      "name": "WPRB 103.3",
+      "url": "http://wprb.streamguys1.com/live",
+      "categories": [
+        "public_college"
+      ],
+      "tags": [],
+      "countryCode": "US",
+      "language": "english",
+      "artwork": null,
+      "city": "Princeton, NJ",
+      "genre": "College Radio"
+    },
+    {
+      "id": "F2850D3A-F440-545F-99FD-89FA57BB371B",
+      "name": "KXLU 88.9",
+      "url": "http://kxlu.streamguys1.com/kxlu-hi",
+      "categories": [
+        "public_college"
+      ],
+      "tags": [],
+      "countryCode": "US",
+      "language": "english",
+      "artwork": "logo-kxlu",
+      "city": "Los Angeles, CA",
+      "genre": "College Radio"
+    },
+    {
+      "id": "CE9A3B8B-9456-5B8B-9BA5-1585548F3D4A",
+      "name": "WFSU 88.9",
+      "url": "https://mp3stream.wfsu.org:8443/889hi",
+      "categories": [
+        "gulf_coast",
+        "news",
+        "public_college"
+      ],
+      "tags": [],
+      "countryCode": "US",
+      "language": "english",
+      "artwork": "logo-wfsu889",
+      "city": "Tallahassee, FL",
+      "genre": "Public Radio"
+    },
+    {
+      "id": "9EAC5F9A-0D43-5E21-99E8-2FCF06F45C30",
+      "name": "WFSQ 91.5 Classical",
+      "url": "https://mp3stream.wfsu.org:8443/915hi",
+      "categories": [
+        "gulf_coast"
+      ],
+      "tags": [],
+      "countryCode": "US",
+      "language": "english",
+      "artwork": "logo-wfsu915",
+      "city": "Tallahassee, FL",
+      "genre": "Classical"
+    },
+    {
+      "id": "D5C20142-548A-50FC-8466-9D98F9C0AC7A",
+      "name": "Hits Radio Monrovia",
+      "url": "https://s4.radio.co/sada156669/listen",
+      "categories": [
+        "west_africa"
+      ],
+      "tags": [],
+      "countryCode": "LR",
+      "language": "english",
+      "artwork": null,
+      "city": "Monrovia",
+      "genre": "Hits"
+    },
+    {
+      "id": "E52EBCB9-D85F-5C42-90D6-CECB40187740",
+      "name": "Global Dream 92.3",
+      "url": "https://stream.zeno.fm/0famqyaljaotv",
+      "categories": [
+        "west_africa"
+      ],
+      "tags": [
+        "partner_ads"
+      ],
+      "countryCode": "LR",
+      "language": "english",
+      "artwork": null,
+      "city": "Monrovia",
+      "genre": "Variety"
+    },
+    {
+      "id": "7C248BF3-3610-5F04-8049-689CCED0D334",
+      "name": "DVC Radio",
+      "url": "https://stream.zeno.fm/438rwgqfwf9uv",
+      "categories": [
+        "west_africa"
+      ],
+      "tags": [
+        "partner_ads"
+      ],
+      "countryCode": "LR",
+      "language": "english",
+      "artwork": null,
+      "city": null,
+      "genre": "Variety"
+    },
+    {
+      "id": "C40A1F5D-0B2D-561D-AA6C-B62B7C4BA3DD",
+      "name": "Capital Radio",
+      "url": "https://global.citrus3.com:8262/stream",
+      "categories": [
+        "west_africa"
+      ],
+      "tags": [],
+      "countryCode": "SL",
+      "language": "english",
+      "artwork": null,
+      "city": "Freetown",
+      "genre": "News & Music"
+    },
+    {
+      "id": "C5755257-2998-5A6A-AA84-8FB4812EB9C7",
+      "name": "Sierra Network Radio",
+      "url": "http://45.79.181.148:8004/;",
+      "categories": [
+        "west_africa"
+      ],
+      "tags": [],
+      "countryCode": "SL",
+      "language": "english",
+      "artwork": null,
+      "city": null,
+      "genre": "African Music"
+    },
+    {
+      "id": "AEA5C13F-EC71-59EF-AF31-D0DF32FE2E01",
+      "name": "Choice FM 93.3",
+      "url": "http://stream.zeno.fm/ct0gvk9149puv",
+      "categories": [
+        "west_africa"
+      ],
+      "tags": [
+        "partner_ads"
+      ],
+      "countryCode": "SL",
+      "language": "english",
+      "artwork": null,
+      "city": "Freetown",
+      "genre": "Variety"
+    },
+    {
+      "id": "242AE9DA-3BA2-5A62-8155-CD0871C8FB77",
+      "name": "Radio Binkongoh",
+      "url": "https://tamkorfai1.radioca.st/stream",
+      "categories": [
+        "west_africa"
+      ],
+      "tags": [],
+      "countryCode": "SL",
+      "language": "english",
+      "artwork": null,
+      "city": null,
+      "genre": "Community"
+    },
+    {
+      "id": "0B9B5ACA-8730-5F95-82C7-575208FEA004",
+      "name": "Boulundala FM",
+      "url": "https://listen.radioking.com/radio/594/stream/2165",
+      "categories": [
+        "west_africa"
+      ],
+      "tags": [],
+      "countryCode": "GM",
+      "language": "english",
+      "artwork": null,
+      "city": null,
+      "genre": "Variety"
+    },
+    {
+      "id": "9C12BE6B-DD78-5F74-A332-B4E2291143BF",
+      "name": "Radio Nostalgie Abidjan",
+      "url": "http://213.136.96.14:8000/nostalgie2.mp3",
+      "categories": [
+        "west_africa_fr"
+      ],
+      "tags": [],
+      "countryCode": "CI",
+      "language": "french",
+      "artwork": null,
+      "city": "Abidjan",
+      "genre": "Hits & Oldies"
+    },
+    {
+      "id": "EEF9A6C2-EB86-5D24-B507-375DE038249B",
+      "name": "Africa Radio Abidjan",
+      "url": "https://africaradio.ice.infomaniak.ch/abidjan128.mp3",
+      "categories": [
+        "west_africa_fr"
+      ],
+      "tags": [],
+      "countryCode": "CI",
+      "language": "french",
+      "artwork": null,
+      "city": "Abidjan",
+      "genre": "News & African Music"
+    },
+    {
+      "id": "E5474D70-686C-5FE7-B953-20D76CFDC39E",
+      "name": "Trace FM Côte d'Ivoire",
+      "url": "https://stream.rcs.revma.com/wvx3tf5q54zuv",
+      "categories": [
+        "west_africa_fr"
+      ],
+      "tags": [],
+      "countryCode": "CI",
+      "language": "french",
+      "artwork": null,
+      "city": "Abidjan",
+      "genre": "Afro-pop"
+    },
+    {
+      "id": "AAA0003E-968D-5942-BAC5-4B6438BD74BC",
+      "name": "Radio Jam",
+      "url": "https://listen.radioking.com/radio/61201/stream/98566",
+      "categories": [
+        "west_africa_fr"
+      ],
+      "tags": [],
+      "countryCode": "CI",
+      "language": "french",
+      "artwork": null,
+      "city": null,
+      "genre": "African Music"
+    },
+    {
+      "id": "F13F1008-20FB-57F8-BE98-6C0946F359F5",
+      "name": "Skyrock Abidjan",
+      "url": "https://icecast.skyrock.net/s/abidjan_aac_64k",
+      "categories": [
+        "west_africa_fr"
+      ],
+      "tags": [],
+      "countryCode": "CI",
+      "language": "french",
+      "artwork": null,
+      "city": "Abidjan",
+      "genre": "Hip-Hop"
+    },
+    {
+      "id": "8985F453-A7DD-5FF5-A2D0-934035C1DA62",
+      "name": "Life Radio",
+      "url": "https://cast4.asurahosting.com/proxy/life/stream",
+      "categories": [
+        "west_africa_fr"
+      ],
+      "tags": [],
+      "countryCode": "CI",
+      "language": "french",
+      "artwork": null,
+      "city": null,
+      "genre": "Afro-pop"
+    },
+    {
+      "id": "774A2EAF-D1BF-53F8-82B1-9BDADEF2518E",
+      "name": "HPR1 Traditional Classic Country",
+      "url": "https://us2.maindigitalstream.com/ssl/7713",
+      "categories": [
+        "classic_country"
+      ],
+      "tags": [],
+      "countryCode": "US",
+      "language": "english",
+      "artwork": "logo-774a2eaf-d1b",
+      "city": null,
+      "genre": "Classic Country"
+    },
+    {
+      "id": "A1ABB875-49E1-5BFC-9EE7-CFF3FCD535BA",
+      "name": "WSM 650 AM",
+      "url": "https://ais-sa8.cdnstream1.com/3666_96.aac",
+      "categories": [
+        "classic_country"
+      ],
+      "tags": [
+        "partner_ads"
+      ],
+      "countryCode": "US",
+      "language": "english",
+      "artwork": "logo-a1abb875-49e",
+      "city": "Nashville, TN",
+      "genre": "Classic Country"
+    },
+    {
+      "id": "3EAE84EF-13BE-5392-925B-7EC470FC9A88",
+      "name": "Big R Radio Country Gold",
+      "url": "http://bigrradio.cdnstream1.com/5195_128",
+      "categories": [
+        "classic_country"
+      ],
+      "tags": [
+        "partner_ads"
+      ],
+      "countryCode": "US",
+      "language": "english",
+      "artwork": null,
+      "city": null,
+      "genre": "Classic Country"
+    },
+    {
+      "id": "BEE971A2-889B-5E90-BFD3-268536D2C7D2",
+      "name": "Best Net Radio Country Oldies",
+      "url": "http://bigrradio.cdnstream1.com/5158_128",
+      "categories": [
+        "classic_country"
+      ],
+      "tags": [
+        "partner_ads"
+      ],
+      "countryCode": "US",
+      "language": "english",
+      "artwork": null,
+      "city": null,
+      "genre": "Classic Country"
+    },
+    {
+      "id": "A730E3BB-E3CD-5923-B86D-F2D623D0F175",
+      "name": "1.FM Classic Country",
+      "url": "https://strmreg.1.fm/ccountry_mobile_mp3",
+      "categories": [
+        "classic_country"
+      ],
+      "tags": [],
+      "countryCode": null,
+      "language": "english",
+      "artwork": "logo-a730e3bb-e3c",
+      "city": null,
+      "genre": "Classic Country"
+    },
+    {
+      "id": "A9041120-BF83-5B40-BC21-84DED051E4D2",
+      "name": "Legends Classic Country",
+      "url": "http://96.31.83.94:8002/live",
+      "categories": [
+        "classic_country"
+      ],
+      "tags": [],
+      "countryCode": "US",
+      "language": "english",
+      "artwork": null,
+      "city": null,
+      "genre": "Classic Country"
+    },
+    {
+      "id": "E21CB90A-1DAF-5B9C-8433-6E14AA7AE2AD",
+      "name": "Bigfoot Country Legends",
+      "url": "https://ice24.securenetsystems.net/WLEJ",
+      "categories": [
+        "classic_country"
+      ],
+      "tags": [],
+      "countryCode": "US",
+      "language": "english",
+      "artwork": null,
+      "city": "State College, PA",
+      "genre": "Classic Country"
+    },
+    {
+      "id": "671A8879-D91D-5186-9082-805A1C5A9C6B",
+      "name": "Outlaw Country Radio",
+      "url": "https://r.bgp.rodeo/listen/outlaw/radio.mp3",
+      "categories": [
+        "classic_country"
+      ],
+      "tags": [],
+      "countryCode": "US",
+      "language": "english",
+      "artwork": null,
+      "city": null,
+      "genre": "Outlaw Country"
+    },
+    {
+      "id": "7D908CCD-FF9F-53AB-8824-3668EB04354A",
+      "name": "Exclusively Johnny Cash",
+      "url": "https://streaming.exclusive.radio/er/johnnycash/icecast.audio",
+      "categories": [
+        "classic_country"
+      ],
+      "tags": [],
+      "countryCode": null,
+      "language": "english",
+      "artwork": null,
+      "city": null,
+      "genre": "Johnny Cash"
+    },
+    {
+      "id": "1C4033C4-BF0E-548B-8DA4-E6FC80D39808",
+      "name": "Exclusively Dolly Parton",
+      "url": "https://streaming.exclusive.radio/er/dollyparton/icecast.audio",
+      "categories": [
+        "classic_country"
+      ],
+      "tags": [],
+      "countryCode": null,
+      "language": "english",
+      "artwork": null,
+      "city": null,
+      "genre": "Dolly Parton"
+    },
+    {
+      "id": "182EAF78-2209-5A58-8D4B-2DCC041F9C10",
+      "name": "Exclusively Willie Nelson",
+      "url": "https://nl4.mystreaming.net/er/willienelson/icecast.audio",
+      "categories": [
+        "classic_country"
+      ],
+      "tags": [],
+      "countryCode": null,
+      "language": "english",
+      "artwork": null,
+      "city": null,
+      "genre": "Willie Nelson"
+    },
+    {
+      "id": "3D522199-C5A6-53F3-A630-AABDE0FCEE31",
+      "name": "VOV1",
+      "url": "https://str.vov.gov.vn/vovlive/vov1vov5Vietnamese.sdp_aac/playlist.m3u8",
+      "categories": [
+        "vietnam"
+      ],
+      "tags": [],
+      "countryCode": "VN",
+      "language": "vietnamese",
+      "artwork": null,
+      "city": "Hà Nội",
+      "genre": "News"
+    },
+    {
+      "id": "D48AB18A-651C-550F-B434-473A22BD10F4",
+      "name": "VOV2",
+      "url": "https://str.vov.gov.vn/vovlive/vov2.sdp_aac/playlist.m3u8",
+      "categories": [
+        "vietnam"
+      ],
+      "tags": [],
+      "countryCode": "VN",
+      "language": "vietnamese",
+      "artwork": null,
+      "city": "Hà Nội",
+      "genre": "Culture & Education"
+    },
+    {
+      "id": "621AAF01-8E84-50EE-971D-848404FB2A5C",
+      "name": "VOV3",
+      "url": "https://str.vov.gov.vn/vovlive/vov3.sdp_aac/playlist.m3u8",
+      "categories": [
+        "vietnam"
+      ],
+      "tags": [],
+      "countryCode": "VN",
+      "language": "vietnamese",
+      "artwork": null,
+      "city": "Hà Nội",
+      "genre": "Music"
+    },
+    {
+      "id": "64541B4F-7077-5F54-8089-813459C380D0",
+      "name": "VOV Giao Thông TP.HCM",
+      "url": "https://play.vovgiaothong.vn/live/gthcm/playlist.m3u8",
+      "categories": [
+        "vietnam"
+      ],
+      "tags": [],
+      "countryCode": "VN",
+      "language": "vietnamese",
+      "artwork": null,
+      "city": "TP. Hồ Chí Minh",
+      "genre": "Traffic & Music"
+    },
+    {
+      "id": "B30457D2-049B-53FD-B9BB-C3D480EAA112",
+      "name": "VOV Giao Thông Hà Nội",
+      "url": "https://play.vovgiaothong.vn/live/gthn/playlist.m3u8",
+      "categories": [
+        "vietnam"
+      ],
+      "tags": [],
+      "countryCode": "VN",
+      "language": "vietnamese",
+      "artwork": null,
+      "city": "Hà Nội",
+      "genre": "Traffic & Music"
+    },
+    {
+      "id": "B90011B8-1612-5432-BAC6-DDFFCE6AEDA6",
+      "name": "Hà Nội FM 90",
+      "url": "http://14.162.146.90:8000/HANOI90",
+      "categories": [
+        "vietnam"
+      ],
+      "tags": [],
+      "countryCode": "VN",
+      "language": "vietnamese",
+      "artwork": null,
+      "city": "Hà Nội",
+      "genre": "News & Music"
+    },
+    {
+      "id": "34275722-E16E-59A3-AE3B-B7E522A3DAF1",
+      "name": "Hà Nội FM 96",
+      "url": "http://222.252.21.96:8000/HANOI96",
+      "categories": [
+        "vietnam"
+      ],
+      "tags": [],
+      "countryCode": "VN",
+      "language": "vietnamese",
+      "artwork": null,
+      "city": "Hà Nội",
+      "genre": "Music"
+    },
+    {
+      "id": "4B94B63D-7A05-5204-85AC-BACEC68C1601",
+      "name": "Hải Phòng FM 102.2",
+      "url": "https://cdn.thhp.vn/live/285c1421f29d05045909836b37313898e2f/playlist.m3u8",
+      "categories": [
+        "vietnam"
+      ],
+      "tags": [],
+      "countryCode": "VN",
+      "language": "vietnamese",
+      "artwork": null,
+      "city": "Hải Phòng",
+      "genre": "News & Music"
+    },
+    {
+      "id": "54A7B8AD-A0E6-55BE-AE04-298BB18A8462",
+      "name": "Cải Lương Việt Nam",
+      "url": "https://stream.zeno.fm/0trm6wrnga0uv",
+      "categories": [
+        "vietnam"
+      ],
+      "tags": [
+        "partner_ads"
+      ],
+      "countryCode": "VN",
+      "language": "vietnamese",
+      "artwork": null,
+      "city": null,
+      "genre": "Cải Lương"
+    },
+    {
+      "id": "1A135A9B-A591-5DF1-8E6E-C774F9ED7811",
+      "name": "M Radio Vietnam",
+      "url": "https://stream.zeno.fm/4q7y9hvkp2zuv",
+      "categories": [
+        "vietnam"
+      ],
+      "tags": [
+        "partner_ads"
+      ],
+      "countryCode": "VN",
+      "language": "vietnamese",
+      "artwork": null,
+      "city": null,
+      "genre": "Pop"
+    },
+    {
+      "id": "17732AE6-30C5-5F83-B15E-F100E0979268",
+      "name": "RFI Tiếng Việt",
+      "url": "https://rfienvietnamien64k.ice.infomaniak.ch/rfienvietnamien-64.mp3",
+      "categories": [
+        "vietnam"
+      ],
+      "tags": [],
+      "countryCode": "FR",
+      "language": "vietnamese",
+      "artwork": null,
+      "city": null,
+      "genre": "News"
+    },
+    {
+      "id": "81FE2ED2-760B-5FB7-A2FB-DCBC4645DB11",
+      "name": "Little Saigon Radio",
+      "url": "https://stream.zeno.fm/2znsmu8d8zquv",
+      "categories": [
+        "vietnamese_us"
+      ],
+      "tags": [
+        "partner_ads"
+      ],
+      "countryCode": "US",
+      "language": "vietnamese",
+      "artwork": null,
+      "city": "Westminster, CA",
+      "genre": "News & Talk"
+    },
+    {
+      "id": "FE349124-B83A-5B57-A1E1-3BB86B5E716D",
+      "name": "Radio Bolsa",
+      "url": "https://stream.zeno.fm/1dkfsg1znv8uv",
+      "categories": [
+        "vietnamese_us"
+      ],
+      "tags": [
+        "partner_ads"
+      ],
+      "countryCode": "US",
+      "language": "vietnamese",
+      "artwork": null,
+      "city": "Westminster, CA",
+      "genre": "News & Talk"
+    },
+    {
+      "id": "7113849B-72C0-546A-8A89-DFA8B1C22E62",
+      "name": "Saigon Radio 106.3",
+      "url": "https://ice5.securenetsystems.net/KALI",
+      "categories": [
+        "vietnamese_us"
+      ],
+      "tags": [],
+      "countryCode": "US",
+      "language": "vietnamese",
+      "artwork": null,
+      "city": "Santa Ana, CA",
+      "genre": "News & Music"
+    },
+    {
+      "id": "97EFA0D7-1E21-5EF4-87AB-A79CC163C2C9",
+      "name": "KVVN 1430 AM",
+      "url": "https://us2.maindigitalstream.com/ssl/KVVN",
+      "categories": [
+        "vietnamese_us"
+      ],
+      "tags": [],
+      "countryCode": "US",
+      "language": "vietnamese",
+      "artwork": null,
+      "city": "San Jose, CA",
+      "genre": "News & Talk"
+    },
+    {
+      "id": "3BC87565-5A51-509C-9D32-1E1B6302145C",
+      "name": "KSJX 1500 AM",
+      "url": "http://162.244.80.20:9464/;stream.mp3",
+      "categories": [
+        "vietnamese_us"
+      ],
+      "tags": [],
+      "countryCode": "US",
+      "language": "vietnamese",
+      "artwork": null,
+      "city": "San Jose, CA",
+      "genre": "News & Talk"
+    },
+    {
+      "id": "A621C1C7-84B4-53A3-B296-A82381A3C5FA",
+      "name": "Radio Saigon Houston 900 AM",
+      "url": "http://centova87.instainternet.com:8070/stream",
+      "categories": [
+        "vietnamese_us"
+      ],
+      "tags": [],
+      "countryCode": "US",
+      "language": "vietnamese",
+      "artwork": null,
+      "city": "Houston, TX",
+      "genre": "News & Talk"
+    },
+    {
+      "id": "656BFEE9-2045-5AB5-A5D6-02CEDD4B36B0",
+      "name": "Viet Radio 1560 AM",
+      "url": "http://71.4.56.20/3rdout/radio.hou.std2/icecast.audio",
+      "categories": [
+        "vietnamese_us"
+      ],
+      "tags": [],
+      "countryCode": "US",
+      "language": "vietnamese",
+      "artwork": null,
+      "city": "Houston, TX",
+      "genre": "News & Talk"
+    },
+    {
+      "id": "413E6AE1-2E43-5101-BACC-CD71D9750016",
+      "name": "TNT Radio",
+      "url": "https://cast4.servcast.net/proxy/longpham2/stream",
+      "categories": [
+        "vietnamese_us"
+      ],
+      "tags": [],
+      "countryCode": "US",
+      "language": "vietnamese",
+      "artwork": null,
+      "city": "Atlanta, GA",
+      "genre": "News & Talk"
+    },
+    {
+      "id": "8216B09F-7CE3-558A-9F00-77FCD5999210",
+      "name": "Viet Washington DC",
+      "url": "http://varadio.serverroom.net:7968/",
+      "categories": [
+        "vietnamese_us"
+      ],
+      "tags": [],
+      "countryCode": "US",
+      "language": "vietnamese",
+      "artwork": null,
+      "city": "Washington, DC",
+      "genre": "News & Talk"
+    }
+  ]
+}
