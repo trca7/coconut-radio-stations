@@ -1,25 +1,60 @@
 {
   "version": 1,
-  "revision": 2026093021,
+  "revision": 2026093022,
   "myStationID": "2C424408-0836-55B4-AF41-90E65BC4A09F",
   "categories": [
     {
       "id": "gulf_coast",
-      "title": "Gulf Coast & Florida",
-      "group": "Americas",
+      "title": "Gulf of Mexico",
+      "folder": null,
+      "group": null,
       "default": true,
       "languages": []
     },
     {
       "id": "new_orleans",
-      "title": "New Orleans",
-      "group": "Americas",
+      "title": "New Orleans & Jazz",
+      "folder": null,
+      "group": null,
+      "default": true,
+      "languages": []
+    },
+    {
+      "id": "classic_country",
+      "title": "Country",
+      "folder": null,
+      "group": null,
+      "default": true,
+      "languages": []
+    },
+    {
+      "id": "public_college",
+      "title": "Public & College",
+      "folder": null,
+      "group": null,
+      "default": true,
+      "languages": []
+    },
+    {
+      "id": "news",
+      "title": "News",
+      "folder": null,
+      "group": null,
+      "default": true,
+      "languages": []
+    },
+    {
+      "id": "st_lucia",
+      "title": "St. Lucia",
+      "folder": "World",
+      "group": "Caribbean",
       "default": true,
       "languages": []
     },
     {
       "id": "reggae_jamaica",
       "title": "Jamaica & Reggae",
+      "folder": "World",
       "group": "Caribbean",
       "default": true,
       "languages": []
@@ -27,13 +62,7 @@
     {
       "id": "soca_trinidad",
       "title": "Trinidad & Soca",
-      "group": "Caribbean",
-      "default": true,
-      "languages": []
-    },
-    {
-      "id": "st_lucia",
-      "title": "St. Lucia",
+      "folder": "World",
       "group": "Caribbean",
       "default": true,
       "languages": []
@@ -41,6 +70,7 @@
     {
       "id": "eastern_caribbean",
       "title": "Eastern Caribbean",
+      "folder": "World",
       "group": "Caribbean",
       "default": true,
       "languages": []
@@ -48,6 +78,7 @@
     {
       "id": "antilles_haiti",
       "title": "Antilles & Haiti",
+      "folder": "World",
       "group": "Caribbean",
       "default": true,
       "languages": [
@@ -57,20 +88,23 @@
     {
       "id": "caribe_latino",
       "title": "Caribe Latino",
+      "folder": "World",
       "group": "Caribbean",
-      "default": true,
-      "languages": []
-    },
-    {
-      "id": "west_africa_fr",
-      "title": "Afrique de l'Ouest",
-      "group": "Africa",
       "default": true,
       "languages": []
     },
     {
       "id": "west_africa",
       "title": "West Africa",
+      "folder": "World",
+      "group": "Africa",
+      "default": true,
+      "languages": []
+    },
+    {
+      "id": "west_africa_fr",
+      "title": "Afrique de l'Ouest",
+      "folder": "World",
       "group": "Africa",
       "default": true,
       "languages": []
@@ -78,6 +112,7 @@
     {
       "id": "south_africa",
       "title": "South Africa",
+      "folder": "World",
       "group": "Africa",
       "default": true,
       "languages": []
@@ -85,7 +120,8 @@
     {
       "id": "vietnam",
       "title": "Việt Nam",
-      "group": "Vietnamese",
+      "folder": "World",
+      "group": "Asia",
       "default": false,
       "languages": [
         "vi"
@@ -94,7 +130,8 @@
     {
       "id": "vietnamese_us",
       "title": "Vietnamese in America",
-      "group": "Vietnamese",
+      "folder": "World",
+      "group": "Asia",
       "default": false,
       "languages": [
         "vi"
@@ -103,35 +140,8 @@
     {
       "id": "world_music",
       "title": "World Music",
-      "group": "Music",
-      "default": true,
-      "languages": []
-    },
-    {
-      "id": "jazz",
-      "title": "Jazz",
-      "group": "Music",
-      "default": true,
-      "languages": []
-    },
-    {
-      "id": "classic_country",
-      "title": "Classic Country",
-      "group": "Music",
-      "default": true,
-      "languages": []
-    },
-    {
-      "id": "public_college",
-      "title": "Public & College",
-      "group": "News & Public Radio",
-      "default": true,
-      "languages": []
-    },
-    {
-      "id": "news",
-      "title": "News",
-      "group": "News & Public Radio",
+      "folder": "World",
+      "group": "Global",
       "default": true,
       "languages": []
     }
@@ -785,7 +795,7 @@
       "name": "Bossa Jazz Brasil",
       "url": "https://centova5.transmissaodigital.com:20104/live",
       "categories": [
-        "jazz",
+        "new_orleans",
         "world_music"
       ],
       "tags": [],
@@ -814,8 +824,7 @@
       "name": "WWOZ",
       "url": "https://wwoz-sc.streamguys1.com/wwoz-hi.mp3",
       "categories": [
-        "new_orleans",
-        "jazz"
+        "new_orleans"
       ],
       "tags": [],
       "countryCode": "US",
@@ -829,7 +838,7 @@
       "name": "TSF Jazz",
       "url": "http://tsfjazz.ice.infomaniak.ch/tsfjazz-high.mp3",
       "categories": [
-        "jazz"
+        "new_orleans"
       ],
       "tags": [],
       "countryCode": "FR",
@@ -1090,8 +1099,7 @@
       "name": "WWNO Jazz",
       "url": "http://tektite.streamguys1.com:5140/wwnojazz-mp3",
       "categories": [
-        "new_orleans",
-        "jazz"
+        "new_orleans"
       ],
       "tags": [],
       "countryCode": "US",
@@ -1120,7 +1128,7 @@
       "name": "Jazz24",
       "url": "https://knkx-live-a.edge.audiocdn.com/6285_256k",
       "categories": [
-        "jazz"
+        "new_orleans"
       ],
       "tags": [],
       "countryCode": "US",
@@ -1134,7 +1142,7 @@
       "name": "WBGO Jazz 88.3",
       "url": "https://ais-sa8.cdnstream1.com/3629_128.mp3",
       "categories": [
-        "jazz"
+        "new_orleans"
       ],
       "tags": [],
       "countryCode": "US",
