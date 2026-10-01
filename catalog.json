@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "revision": 2026093010,
+  "revision": 2026093021,
   "myStationID": "2C424408-0836-55B4-AF41-90E65BC4A09F",
   "categories": [
     {
@@ -18,9 +18,46 @@
       "languages": []
     },
     {
-      "id": "caribbean",
-      "title": "Caribbean",
-      "group": "Americas",
+      "id": "reggae_jamaica",
+      "title": "Jamaica & Reggae",
+      "group": "Caribbean",
+      "default": true,
+      "languages": []
+    },
+    {
+      "id": "soca_trinidad",
+      "title": "Trinidad & Soca",
+      "group": "Caribbean",
+      "default": true,
+      "languages": []
+    },
+    {
+      "id": "st_lucia",
+      "title": "St. Lucia",
+      "group": "Caribbean",
+      "default": true,
+      "languages": []
+    },
+    {
+      "id": "eastern_caribbean",
+      "title": "Eastern Caribbean",
+      "group": "Caribbean",
+      "default": true,
+      "languages": []
+    },
+    {
+      "id": "antilles_haiti",
+      "title": "Antilles & Haiti",
+      "group": "Caribbean",
+      "default": true,
+      "languages": [
+        "ht"
+      ]
+    },
+    {
+      "id": "caribe_latino",
+      "title": "Caribe Latino",
+      "group": "Caribbean",
       "default": true,
       "languages": []
     },
@@ -105,7 +142,7 @@
       "name": "Irie FM",
       "url": "https://stream.iriefm.net:8008/stream",
       "categories": [
-        "caribbean"
+        "reggae_jamaica"
       ],
       "tags": [],
       "countryCode": "JM",
@@ -119,7 +156,7 @@
       "name": "Radio Jamaica 94 FM",
       "url": "https://stream.zeno.fm/ebqnzkvyv9duv",
       "categories": [
-        "caribbean"
+        "reggae_jamaica"
       ],
       "tags": [
         "partner_ads"
@@ -135,7 +172,7 @@
       "name": "HOTT 95.3FM",
       "url": "https://ice64.securenetsystems.net/HOTT953",
       "categories": [
-        "caribbean"
+        "eastern_caribbean"
       ],
       "tags": [],
       "countryCode": "BB",
@@ -149,7 +186,7 @@
       "name": "Radio Rebelde 1180 AM",
       "url": "https://icecast.teveo.cu/kHKL7tWd",
       "categories": [
-        "caribbean"
+        "caribe_latino"
       ],
       "tags": [],
       "countryCode": "CU",
@@ -163,7 +200,7 @@
       "name": "Radio Humilite",
       "url": "https://stream-286.surfernetwork.com/qhlllaz21cmuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJxaGxsbGF6MjFjbXV2IiwiaG9zdCI6InN0cmVhbS0yODYuc3VyZmVybmV0d29yay5jb20iLCJ0bSI6ZmFsc2UsInJ0dGwiOjUsImp0aSI6IjZSRy1BZFI5UVp5bU5RakEzVmdnMnciLCJpYXQiOjE3OTA0MDI4MTgsImV4cCI6MTc5MDQwMjg3OH0.wRINKXFSANceAMQfKPzreVoYSVLjrSqW1CaHozHnPs8",
       "categories": [
-        "caribbean"
+        "antilles_haiti"
       ],
       "tags": [
         "partner_ads"
@@ -179,7 +216,7 @@
       "name": "SomaFM Heavyweight Reggae",
       "url": "https://ice2.somafm.com/reggae-256-mp3",
       "categories": [
-        "caribbean"
+        "reggae_jamaica"
       ],
       "tags": [],
       "countryCode": "US",
@@ -193,7 +230,7 @@
       "name": "Scorch Radio 101.1FM",
       "url": "https://stream.velalabs.co/scorch",
       "categories": [
-        "caribbean"
+        "soca_trinidad"
       ],
       "tags": [],
       "countryCode": "TT",
@@ -207,7 +244,7 @@
       "name": "Slam 100.5",
       "url": "https://www.radiomast.io/stream/68540e88-54b8-4924-b098-5a668f7da7b6/listen",
       "categories": [
-        "caribbean"
+        "soca_trinidad"
       ],
       "tags": [],
       "countryCode": "TT",
@@ -221,7 +258,7 @@
       "name": "BurningSoca",
       "url": "http://176.9.121.230:8000/soca",
       "categories": [
-        "caribbean"
+        "soca_trinidad"
       ],
       "tags": [],
       "countryCode": "TT",
@@ -235,7 +272,7 @@
       "name": "Martinique 1ère",
       "url": "http://martinique.ice.infomaniak.ch/martinique-128.mp3",
       "categories": [
-        "caribbean"
+        "antilles_haiti"
       ],
       "tags": [],
       "countryCode": "MQ",
@@ -249,7 +286,7 @@
       "name": "Radio Zoukla",
       "url": "https://ecmanager4.pro-fhi.net:2605/stream",
       "categories": [
-        "caribbean"
+        "antilles_haiti"
       ],
       "tags": [],
       "countryCode": "MQ",
@@ -263,7 +300,7 @@
       "name": "Antilles Média Kompa Gold",
       "url": "https://antillesmedia.pro-fhi.net/antillesmediakompa",
       "categories": [
-        "caribbean"
+        "antilles_haiti"
       ],
       "tags": [],
       "countryCode": "GP",
@@ -277,7 +314,7 @@
       "name": "Guadeloupe 1ère",
       "url": "https://guadeloupe.ice.infomaniak.ch/guadeloupe-128.mp3",
       "categories": [
-        "caribbean"
+        "antilles_haiti"
       ],
       "tags": [],
       "countryCode": "GP",
@@ -291,7 +328,7 @@
       "name": "La Grosse Radio Reggae",
       "url": "http://hd.lagrosseradio.info/lagrosseradio-reggae-192.mp3",
       "categories": [
-        "caribbean"
+        "reggae_jamaica"
       ],
       "tags": [],
       "countryCode": "FR",
@@ -706,7 +743,7 @@
       "url": "http://icecast.radiofrance.fr/fipreggae-hifi.aac",
       "categories": [
         "world_music",
-        "caribbean"
+        "reggae_jamaica"
       ],
       "tags": [],
       "countryCode": "FR",
@@ -1868,6 +1905,826 @@
       "language": "vietnamese",
       "artwork": null,
       "city": "Washington, DC",
+      "genre": "News & Talk"
+    },
+    {
+      "id": "B1204251-DC03-527F-96CA-90956F5221A0",
+      "name": "Caribbean Hot FM",
+      "url": "https://audiovs.intacs.com/caribbeanhotfm",
+      "categories": [
+        "st_lucia"
+      ],
+      "tags": [],
+      "countryCode": "LC",
+      "language": null,
+      "artwork": null,
+      "city": null,
+      "genre": "Caribbean Hits"
+    },
+    {
+      "id": "680961AD-941A-59C9-9CC3-7E5F41911DF9",
+      "name": "Caribbean Kiss FM",
+      "url": "https://auds1.intacs.com/caribbeankissfm",
+      "categories": [
+        "st_lucia"
+      ],
+      "tags": [],
+      "countryCode": "LC",
+      "language": null,
+      "artwork": null,
+      "city": null,
+      "genre": "Caribbean Hits"
+    },
+    {
+      "id": "9E69D50D-445F-59BC-BBC2-C6D2447E762C",
+      "name": "Power 97.9 FM",
+      "url": "https://caribspy.com/proxy/power979/stream",
+      "categories": [
+        "st_lucia"
+      ],
+      "tags": [],
+      "countryCode": "LC",
+      "language": null,
+      "artwork": null,
+      "city": null,
+      "genre": "Hits"
+    },
+    {
+      "id": "F5172711-4586-5CFA-953B-B091701BAB80",
+      "name": "Dennery FM",
+      "url": "https://dfm.arnait.com/listen/dfm/dfmlive.mp3",
+      "categories": [
+        "st_lucia"
+      ],
+      "tags": [],
+      "countryCode": "LC",
+      "language": null,
+      "artwork": null,
+      "city": "Dennery",
+      "genre": "Dennery Segment"
+    },
+    {
+      "id": "FF51990B-C26B-587A-87E4-B0DFE1A7239F",
+      "name": "Radio Caribbean International",
+      "url": "https://caribspy.com/proxy/rcistlucia/stream",
+      "categories": [
+        "st_lucia"
+      ],
+      "tags": [],
+      "countryCode": "LC",
+      "language": null,
+      "artwork": null,
+      "city": null,
+      "genre": "Kwéyòl & News"
+    },
+    {
+      "id": "D7056D6F-CA38-58B0-AF39-DA79704958A5",
+      "name": "Unity FM",
+      "url": "https://centova12.instainternet.com/proxy/unity905?mp=/stream",
+      "categories": [
+        "st_lucia"
+      ],
+      "tags": [],
+      "countryCode": "LC",
+      "language": null,
+      "artwork": null,
+      "city": null,
+      "genre": "Variety"
+    },
+    {
+      "id": "A93079C6-92CD-5390-A707-7C6560E74C23",
+      "name": "Reliable FM",
+      "url": "https://s2.radio.co/s5fb28a34d/listen",
+      "categories": [
+        "st_lucia"
+      ],
+      "tags": [],
+      "countryCode": "LC",
+      "language": null,
+      "artwork": null,
+      "city": null,
+      "genre": "Talk & Music"
+    },
+    {
+      "id": "577395FB-FFD3-5E44-AF58-C98662FA1B62",
+      "name": "Radio 100",
+      "url": "http://media.carib.pro/radio100",
+      "categories": [
+        "st_lucia"
+      ],
+      "tags": [],
+      "countryCode": "LC",
+      "language": null,
+      "artwork": null,
+      "city": null,
+      "genre": "Caribbean Hits"
+    },
+    {
+      "id": "86A5F299-A7BA-54F3-B46C-D145D4F51E72",
+      "name": "Real FM",
+      "url": "http://s7.voscast.com:8840/;",
+      "categories": [
+        "st_lucia"
+      ],
+      "tags": [],
+      "countryCode": "LC",
+      "language": null,
+      "artwork": null,
+      "city": null,
+      "genre": "Variety"
+    },
+    {
+      "id": "7E21A5C8-3BDA-5795-9B8D-A910D0E9AC89",
+      "name": "Soufrière FM 88.5",
+      "url": "https://cast1.asurahosting.com/proxy/romanus/stream",
+      "categories": [
+        "st_lucia"
+      ],
+      "tags": [],
+      "countryCode": "LC",
+      "language": null,
+      "artwork": null,
+      "city": "Soufrière",
+      "genre": "Community"
+    },
+    {
+      "id": "0AD511EC-C815-56E2-9EDB-55724CC61235",
+      "name": "RFI 102.1",
+      "url": "http://167.114.131.90:5908/;",
+      "categories": [
+        "st_lucia"
+      ],
+      "tags": [],
+      "countryCode": "LC",
+      "language": null,
+      "artwork": null,
+      "city": null,
+      "genre": "Variety"
+    },
+    {
+      "id": "8D6C9A40-32EB-59CF-93B0-DC73FE973667",
+      "name": "FAME 95 FM",
+      "url": "https://stream.zeno.fm/wbsd59gcgy5tv",
+      "categories": [
+        "reggae_jamaica"
+      ],
+      "tags": [
+        "partner_ads"
+      ],
+      "countryCode": "JM",
+      "language": null,
+      "artwork": null,
+      "city": "Kingston",
+      "genre": "Reggae & Dancehall"
+    },
+    {
+      "id": "BF0FAA42-5B8A-5C25-AD63-CDB7DBFE1DAA",
+      "name": "ZIP 103 FM",
+      "url": "https://stream.zeno.fm/c0ytcn43vxquv",
+      "categories": [
+        "reggae_jamaica"
+      ],
+      "tags": [
+        "partner_ads"
+      ],
+      "countryCode": "JM",
+      "language": null,
+      "artwork": null,
+      "city": "Kingston",
+      "genre": "Dancehall"
+    },
+    {
+      "id": "23A3F93F-9792-5BDB-9730-1670DEB0B74B",
+      "name": "Mello FM",
+      "url": "https://stream.zeno.fm/vopem6jw8apuv",
+      "categories": [
+        "reggae_jamaica"
+      ],
+      "tags": [
+        "partner_ads"
+      ],
+      "countryCode": "JM",
+      "language": null,
+      "artwork": null,
+      "city": null,
+      "genre": "Reggae & R&B"
+    },
+    {
+      "id": "2C12D21D-EA82-5109-9EE8-0AD0E3674E3E",
+      "name": "The Edge 105 FM",
+      "url": "https://listen.radioking.com/radio/331171/stream/387835",
+      "categories": [
+        "reggae_jamaica"
+      ],
+      "tags": [],
+      "countryCode": "JM",
+      "language": null,
+      "artwork": null,
+      "city": null,
+      "genre": "Dancehall & Hip-Hop"
+    },
+    {
+      "id": "49A5155B-286C-53C9-8699-5F67F7669C79",
+      "name": "Fyah 105",
+      "url": "https://listen.radioking.com/radio/459389/stream/514595",
+      "categories": [
+        "reggae_jamaica"
+      ],
+      "tags": [],
+      "countryCode": "JM",
+      "language": null,
+      "artwork": null,
+      "city": null,
+      "genre": "Reggae & Dancehall"
+    },
+    {
+      "id": "ADBE36AA-788B-5B10-ABD6-8ED513DF9F89",
+      "name": "Alpha Boys School Radio",
+      "url": "http://alphaboys-live.streamguys1.com/alphaboys.mp3",
+      "categories": [
+        "reggae_jamaica"
+      ],
+      "tags": [],
+      "countryCode": "JM",
+      "language": null,
+      "artwork": null,
+      "city": "Kingston",
+      "genre": "Ska & Roots Reggae"
+    },
+    {
+      "id": "E14D689C-C98A-565F-B382-7F993AF28D59",
+      "name": "GT Reggae Radio",
+      "url": "https://gtreggaeradio.radioca.st/;",
+      "categories": [
+        "reggae_jamaica"
+      ],
+      "tags": [],
+      "countryCode": "JM",
+      "language": null,
+      "artwork": null,
+      "city": null,
+      "genre": "Reggae"
+    },
+    {
+      "id": "616CC567-4BCF-5E58-9C22-0AB49C7ECC2E",
+      "name": "Rebel Radio Link",
+      "url": "https://streamer.radio.co/s830ce6f36/listen",
+      "categories": [
+        "reggae_jamaica"
+      ],
+      "tags": [],
+      "countryCode": "JM",
+      "language": null,
+      "artwork": null,
+      "city": null,
+      "genre": "Reggae"
+    },
+    {
+      "id": "0FF58865-EB01-5E38-AE9A-1285792A3EAA",
+      "name": "WEFM 96.1",
+      "url": "https://fms.ttrn.org/live/961wefm.sdp/playlist.m3u8",
+      "categories": [
+        "soca_trinidad"
+      ],
+      "tags": [],
+      "countryCode": "TT",
+      "language": null,
+      "artwork": null,
+      "city": "Port of Spain",
+      "genre": "Soca & Caribbean Hits"
+    },
+    {
+      "id": "340F6E9A-C9FF-5F96-A0C6-A6FB08FC25D6",
+      "name": "95.1 The Best Mix",
+      "url": "https://streams.radiomast.io/aae72a18-3fa0-4b9a-a4c4-5a19655e1c68",
+      "categories": [
+        "soca_trinidad"
+      ],
+      "tags": [],
+      "countryCode": "TT",
+      "language": null,
+      "artwork": null,
+      "city": "Port of Spain",
+      "genre": "Caribbean Hits"
+    },
+    {
+      "id": "06CFA901-EE7D-53B9-B3AB-712D947DD49A",
+      "name": "Soca Switch Radio",
+      "url": "https://stream.zeno.fm/4f738mzizi1uv",
+      "categories": [
+        "soca_trinidad"
+      ],
+      "tags": [
+        "partner_ads"
+      ],
+      "countryCode": "TT",
+      "language": null,
+      "artwork": null,
+      "city": null,
+      "genre": "Soca"
+    },
+    {
+      "id": "AC504D46-493B-5CEC-99A2-47FFD5A99BB4",
+      "name": "The Street 91.9 FM",
+      "url": "https://stream.zeno.fm/bi5helbi4ggtv",
+      "categories": [
+        "soca_trinidad"
+      ],
+      "tags": [
+        "partner_ads"
+      ],
+      "countryCode": "TT",
+      "language": null,
+      "artwork": null,
+      "city": null,
+      "genre": "Soca & Hits"
+    },
+    {
+      "id": "F54FBA7F-01B3-58B8-9B9E-98BD3CB94948",
+      "name": "Soca Fever",
+      "url": "https://centova87.shoutcastservices.com/proxy/socafever/stream",
+      "categories": [
+        "soca_trinidad"
+      ],
+      "tags": [],
+      "countryCode": "TT",
+      "language": null,
+      "artwork": null,
+      "city": null,
+      "genre": "Soca"
+    },
+    {
+      "id": "4D104F8F-AD54-55FB-80BA-26FB80A6E6FD",
+      "name": "Sweet FM",
+      "url": "https://media.streambrothers.com:8448/stream",
+      "categories": [
+        "soca_trinidad"
+      ],
+      "tags": [],
+      "countryCode": "TT",
+      "language": null,
+      "artwork": null,
+      "city": null,
+      "genre": "Oldies & Calypso"
+    },
+    {
+      "id": "F84A75CB-85E7-5313-84E5-01B8195EB8A0",
+      "name": "Boom Champions 94.1",
+      "url": "http://s8.yesstreaming.net:7103/stream",
+      "categories": [
+        "soca_trinidad"
+      ],
+      "tags": [],
+      "countryCode": "TT",
+      "language": null,
+      "artwork": null,
+      "city": null,
+      "genre": "Dancehall & Soca"
+    },
+    {
+      "id": "957A8790-572A-5571-BC70-CB1A58C166FC",
+      "name": "Radio Jaagriti",
+      "url": "https://radio.sibercdn.com/Radio_Jaagriti-15/index.m3u8",
+      "categories": [
+        "soca_trinidad"
+      ],
+      "tags": [],
+      "countryCode": "TT",
+      "language": null,
+      "artwork": null,
+      "city": null,
+      "genre": "Chutney & Indian"
+    },
+    {
+      "id": "4424DF75-71E5-5A50-BE35-584B20AFAB1F",
+      "name": "Y 103.3",
+      "url": "http://usa4.fastcast4u.com:5336/;stream.mp3",
+      "categories": [
+        "eastern_caribbean"
+      ],
+      "tags": [],
+      "countryCode": "BB",
+      "language": null,
+      "artwork": null,
+      "city": null,
+      "genre": "Hits"
+    },
+    {
+      "id": "BC92E4CB-1A11-5CD4-9E61-0DC3F774567C",
+      "name": "CBC 94.7",
+      "url": "http://108.178.16.190:8000/947fm.mp3",
+      "categories": [
+        "eastern_caribbean"
+      ],
+      "tags": [],
+      "countryCode": "BB",
+      "language": null,
+      "artwork": null,
+      "city": null,
+      "genre": "News & Talk"
+    },
+    {
+      "id": "CEE7A9D5-4894-550A-9190-3841DA155952",
+      "name": "Boss FM Grenada",
+      "url": "https://usa8.fastcast4u.com/proxy/bossfm2?mp=/1",
+      "categories": [
+        "eastern_caribbean"
+      ],
+      "tags": [],
+      "countryCode": "GD",
+      "language": null,
+      "artwork": null,
+      "city": null,
+      "genre": "Caribbean Hits"
+    },
+    {
+      "id": "E314402F-3B05-5E5A-B046-864DFBB2FB15",
+      "name": "Spice Islander Radio",
+      "url": "https://fire.doscast.com/8002/stream",
+      "categories": [
+        "eastern_caribbean"
+      ],
+      "tags": [],
+      "countryCode": "GD",
+      "language": null,
+      "artwork": null,
+      "city": null,
+      "genre": "Caribbean Hits"
+    },
+    {
+      "id": "6BF4383C-CE58-5145-945C-2EF09789C2D2",
+      "name": "Hot 97",
+      "url": "https://usa7.fastcast4u.com/proxy/hot97svg?mp=/1",
+      "categories": [
+        "eastern_caribbean"
+      ],
+      "tags": [],
+      "countryCode": "VC",
+      "language": null,
+      "artwork": null,
+      "city": null,
+      "genre": "Caribbean Hits"
+    },
+    {
+      "id": "8AC5482A-A3DF-551F-B2E4-E742537082FD",
+      "name": "Boom 106.9",
+      "url": "https://streaming.shoutcast.com/boom106-9",
+      "categories": [
+        "eastern_caribbean"
+      ],
+      "tags": [],
+      "countryCode": "VC",
+      "language": null,
+      "artwork": null,
+      "city": null,
+      "genre": "Soca & Dancehall"
+    },
+    {
+      "id": "DBD1DC76-8B78-5C5A-9E10-373995807DAF",
+      "name": "NBC Radio",
+      "url": "https://us1.carihost.com:2020/stream/NBCSVG",
+      "categories": [
+        "eastern_caribbean"
+      ],
+      "tags": [],
+      "countryCode": "VC",
+      "language": null,
+      "artwork": null,
+      "city": null,
+      "genre": "National Radio"
+    },
+    {
+      "id": "79EAF67D-4F13-5B34-A1F5-4972CFA25CDE",
+      "name": "Observer Radio",
+      "url": "http://s8.voscast.com:8176/;",
+      "categories": [
+        "eastern_caribbean"
+      ],
+      "tags": [],
+      "countryCode": "AG",
+      "language": null,
+      "artwork": null,
+      "city": null,
+      "genre": "News & Talk"
+    },
+    {
+      "id": "2A44EB31-79C1-51E9-94FF-64B79F92C50A",
+      "name": "Vibz FM",
+      "url": "https://testvibz-silcomwireless.radioca.st/stream.mp3",
+      "categories": [
+        "eastern_caribbean"
+      ],
+      "tags": [],
+      "countryCode": "AG",
+      "language": null,
+      "artwork": null,
+      "city": null,
+      "genre": "Caribbean Hits"
+    },
+    {
+      "id": "67A337B8-8828-5B69-895E-5FDA881B9C34",
+      "name": "DBS Radio",
+      "url": "https://stream.dbcradio.net:8005/live",
+      "categories": [
+        "eastern_caribbean"
+      ],
+      "tags": [],
+      "countryCode": "DM",
+      "language": null,
+      "artwork": null,
+      "city": null,
+      "genre": "National Radio"
+    },
+    {
+      "id": "40EB2EA2-59AC-5A71-A4CD-75139B34323E",
+      "name": "Kairi FM",
+      "url": "https://stream.zeno.fm/ych5ixtx51ktv",
+      "categories": [
+        "eastern_caribbean"
+      ],
+      "tags": [
+        "partner_ads"
+      ],
+      "countryCode": "DM",
+      "language": null,
+      "artwork": null,
+      "city": null,
+      "genre": "Bouyon & Hits"
+    },
+    {
+      "id": "00EF43F5-AC36-57F9-8DA7-9B1B0BD7A18A",
+      "name": "ZIZ Radio",
+      "url": "https://media.slactech.com:8014/stream",
+      "categories": [
+        "eastern_caribbean"
+      ],
+      "tags": [],
+      "countryCode": "KN",
+      "language": null,
+      "artwork": null,
+      "city": null,
+      "genre": "National Radio"
+    },
+    {
+      "id": "896BF2B8-2627-5A2E-A8D7-B509A94206CB",
+      "name": "Sugar City FM",
+      "url": "http://104.131.13.48:8000/radio.mp3",
+      "categories": [
+        "eastern_caribbean"
+      ],
+      "tags": [],
+      "countryCode": "KN",
+      "language": null,
+      "artwork": null,
+      "city": null,
+      "genre": "Caribbean Hits"
+    },
+    {
+      "id": "B9C294B1-8087-56AE-80F1-1453058E58A1",
+      "name": "More 94 FM",
+      "url": "https://morefmbahamas.radioca.st/stream",
+      "categories": [
+        "eastern_caribbean"
+      ],
+      "tags": [],
+      "countryCode": "BS",
+      "language": null,
+      "artwork": null,
+      "city": "Nassau",
+      "genre": "Hits"
+    },
+    {
+      "id": "F7A28BA5-1929-522A-91B5-2260A9BFA15C",
+      "name": "Radio Metropole",
+      "url": "https://s4.radio.co/s5cedb108a/listen",
+      "categories": [
+        "antilles_haiti"
+      ],
+      "tags": [],
+      "countryCode": "HT",
+      "language": null,
+      "artwork": null,
+      "city": "Port-au-Prince",
+      "genre": "News & Konpa"
+    },
+    {
+      "id": "E8AA2CB0-84C0-557F-9733-1E60D944CE65",
+      "name": "Radio Mega",
+      "url": "https://stream.zeno.fm/qpq5v8d5d4duv",
+      "categories": [
+        "antilles_haiti"
+      ],
+      "tags": [
+        "partner_ads"
+      ],
+      "countryCode": "HT",
+      "language": null,
+      "artwork": null,
+      "city": null,
+      "genre": "Konpa & Hits"
+    },
+    {
+      "id": "418F9FDA-144A-5823-BCED-E59B10C87F1C",
+      "name": "Radio Caraibes",
+      "url": "https://stream.zeno.fm/85vrb424d4duv",
+      "categories": [
+        "antilles_haiti"
+      ],
+      "tags": [
+        "partner_ads"
+      ],
+      "countryCode": "HT",
+      "language": null,
+      "artwork": null,
+      "city": "Port-au-Prince",
+      "genre": "News & Music"
+    },
+    {
+      "id": "C9120085-F4AD-5AC7-87C9-D75482F3109C",
+      "name": "Radio Kiskeya",
+      "url": "https://stream.zeno.fm/82q102t62neuv",
+      "categories": [
+        "antilles_haiti"
+      ],
+      "tags": [
+        "partner_ads"
+      ],
+      "countryCode": "HT",
+      "language": null,
+      "artwork": null,
+      "city": "Port-au-Prince",
+      "genre": "News & Music"
+    },
+    {
+      "id": "B389B82B-EB7C-5454-8B77-FCDCA98B61EC",
+      "name": "Paradise FM Curaçao",
+      "url": "https://stream.paradisefm.cw/ParadiseFM",
+      "categories": [
+        "antilles_haiti"
+      ],
+      "tags": [],
+      "countryCode": "CW",
+      "language": null,
+      "artwork": null,
+      "city": "Willemstad",
+      "genre": "Hits"
+    },
+    {
+      "id": "3A451EF1-8B68-5A7C-918F-46EFA574DBC2",
+      "name": "Radio Krioyo",
+      "url": "https://radios.wakenext.com/listen/radio_kriyoyo_2/radio.mp3",
+      "categories": [
+        "antilles_haiti"
+      ],
+      "tags": [],
+      "countryCode": "CW",
+      "language": null,
+      "artwork": null,
+      "city": null,
+      "genre": "Antillean Music"
+    },
+    {
+      "id": "C7E43B99-767F-533B-90DF-0DF941F45728",
+      "name": "Radio Musical Nacional",
+      "url": "https://icecast.teveo.cu/Nbtz7HT3",
+      "categories": [
+        "caribe_latino"
+      ],
+      "tags": [],
+      "countryCode": "CU",
+      "language": null,
+      "artwork": null,
+      "city": "La Habana",
+      "genre": "Classical"
+    },
+    {
+      "id": "F33C7C52-CF9E-5572-AFAB-F0AF7090C257",
+      "name": "Habana Radio",
+      "url": "http://media.ohc.cu/habanaradio",
+      "categories": [
+        "caribe_latino"
+      ],
+      "tags": [],
+      "countryCode": "CU",
+      "language": null,
+      "artwork": null,
+      "city": "La Habana",
+      "genre": "Cuban Music"
+    },
+    {
+      "id": "D5BADEF6-5087-5757-B83F-2B2D5A5AA0DC",
+      "name": "Z 101",
+      "url": "https://streaming.z101digital.com/z101",
+      "categories": [
+        "caribe_latino"
+      ],
+      "tags": [],
+      "countryCode": "DO",
+      "language": null,
+      "artwork": null,
+      "city": "Santo Domingo",
+      "genre": "News & Talk"
+    },
+    {
+      "id": "8ADC5A03-B8EA-5F3E-A7BE-D94AFC416EE2",
+      "name": "Bachata Radio",
+      "url": "http://radio.domiplay.net:8002/;stream.mp3",
+      "categories": [
+        "caribe_latino"
+      ],
+      "tags": [],
+      "countryCode": "DO",
+      "language": null,
+      "artwork": null,
+      "city": null,
+      "genre": "Bachata"
+    },
+    {
+      "id": "C9B1C887-D13A-5558-8420-EEB70821B1E6",
+      "name": "Tropical 100 Salsa",
+      "url": "https://stream.zeno.fm/cjgfujr8yhbvv",
+      "categories": [
+        "caribe_latino"
+      ],
+      "tags": [
+        "partner_ads"
+      ],
+      "countryCode": "DO",
+      "language": null,
+      "artwork": null,
+      "city": null,
+      "genre": "Salsa"
+    },
+    {
+      "id": "EF0E2899-1E0D-547F-96F4-533D1FAE6B0B",
+      "name": "La 91 FM",
+      "url": "https://stream.zeno.fm/859cd7buqg8uv",
+      "categories": [
+        "caribe_latino"
+      ],
+      "tags": [
+        "partner_ads"
+      ],
+      "countryCode": "DO",
+      "language": null,
+      "artwork": null,
+      "city": null,
+      "genre": "Latin Hits"
+    },
+    {
+      "id": "2CEF0D98-653F-58BA-9461-E5AF4DA710B0",
+      "name": "Salseo Radio",
+      "url": "https://listen.radioking.com/radio/399811/stream/451903",
+      "categories": [
+        "caribe_latino"
+      ],
+      "tags": [],
+      "countryCode": "PR",
+      "language": null,
+      "artwork": null,
+      "city": null,
+      "genre": "Salsa"
+    },
+    {
+      "id": "5BB42BAA-D754-5289-B6D2-34DBBD02576C",
+      "name": "Salsoul",
+      "url": "https://server20.servistreaming.com:9023/stream",
+      "categories": [
+        "caribe_latino"
+      ],
+      "tags": [],
+      "countryCode": "PR",
+      "language": null,
+      "artwork": null,
+      "city": "San Juan",
+      "genre": "Salsa"
+    },
+    {
+      "id": "ED9EBE14-57EC-5208-92A7-4E6EBFF76DC6",
+      "name": "Magic 97.3",
+      "url": "https://a4.asurahosting.com:6760/radio.mp3",
+      "categories": [
+        "caribe_latino"
+      ],
+      "tags": [],
+      "countryCode": "PR",
+      "language": null,
+      "artwork": null,
+      "city": null,
+      "genre": "Classic Hits"
+    },
+    {
+      "id": "7F5EA98C-920E-5857-AC40-07758FB8F575",
+      "name": "Isla 1320",
+      "url": "https://server7.servistreaming.com/proxy/radioisla?mp=/stream",
+      "categories": [
+        "caribe_latino"
+      ],
+      "tags": [],
+      "countryCode": "PR",
+      "language": null,
+      "artwork": null,
+      "city": "San Juan",
       "genre": "News & Talk"
     }
   ]
