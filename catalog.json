@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "revision": 2026093022,
+  "revision": 2026100219,
   "myStationID": "2C424408-0836-55B4-AF41-90E65BC4A09F",
   "categories": [
     {
@@ -22,6 +22,14 @@
     {
       "id": "classic_country",
       "title": "Country",
+      "folder": null,
+      "group": null,
+      "default": true,
+      "languages": []
+    },
+    {
+      "id": "kids_family",
+      "title": "Kids & Family",
       "folder": null,
       "group": null,
       "default": true,
@@ -2734,6 +2742,202 @@
       "artwork": null,
       "city": "San Juan",
       "genre": "News & Talk"
+    },
+    {
+      "id": "C5A03CCA-E189-544E-896B-90E8C899335E",
+      "name": "Fun Kids",
+      "url": "https://listen-funkids.sharp-stream.com/funkids.mp3",
+      "categories": [
+        "kids_family"
+      ],
+      "tags": [],
+      "countryCode": "GB",
+      "language": null,
+      "artwork": null,
+      "city": "London",
+      "genre": "Kids Pop & Stories"
+    },
+    {
+      "id": "255EA2A2-F47C-57AF-8311-4B8F062FBEF6",
+      "name": "Fun Kids Junior",
+      "url": "http://listen-funkids.sharp-stream.com/funkidsjunior.mp3",
+      "categories": [
+        "kids_family"
+      ],
+      "tags": [],
+      "countryCode": "GB",
+      "language": null,
+      "artwork": null,
+      "city": null,
+      "genre": "Preschool"
+    },
+    {
+      "id": "456B23D8-320A-5E93-ABB4-EE629A798AFA",
+      "name": "Disney Resorts Radio",
+      "url": "https://stream.revma.ihrhls.com/zc9414/hls.m3u8",
+      "categories": [
+        "kids_family"
+      ],
+      "tags": [],
+      "countryCode": "US",
+      "language": null,
+      "artwork": null,
+      "city": null,
+      "genre": "Disney Parks Music"
+    },
+    {
+      "id": "BB0540F9-C499-567A-B7E0-64BC71ABE316",
+      "name": "iHeart Kids Hits",
+      "url": "https://stream.revma.ihrhls.com/zc7223/hls.m3u8",
+      "categories": [
+        "kids_family"
+      ],
+      "tags": [],
+      "countryCode": "US",
+      "language": null,
+      "artwork": null,
+      "city": null,
+      "genre": "Kids Hits"
+    },
+    {
+      "id": "00EE826F-B8DD-5C4B-AD08-35070FD14C61",
+      "name": "1.FM Kids FM",
+      "url": "http://strm112.1.fm/kidsfm_mobile_mp3",
+      "categories": [
+        "kids_family"
+      ],
+      "tags": [],
+      "countryCode": null,
+      "language": null,
+      "artwork": null,
+      "city": null,
+      "genre": "Kids Songs"
+    },
+    {
+      "id": "F43FA447-C139-5F99-A0F9-29E36D312BB3",
+      "name": "NRJ Disney Hits",
+      "url": "https://streaming.nrjaudio.fm/oudbxj2h9r57",
+      "categories": [
+        "kids_family"
+      ],
+      "tags": [],
+      "countryCode": "FR",
+      "language": null,
+      "artwork": null,
+      "city": null,
+      "genre": "Disney Songs"
+    },
+    {
+      "id": "0CA0F371-C49B-53B5-8447-E1852FD99F41",
+      "name": "Allzic Radio Disney",
+      "url": "http://allzic52.ice.infomaniak.ch/allzic52.mp3",
+      "categories": [
+        "kids_family"
+      ],
+      "tags": [],
+      "countryCode": "FR",
+      "language": null,
+      "artwork": null,
+      "city": null,
+      "genre": "Disney Film Music"
+    },
+    {
+      "id": "396A0E35-037A-5905-B865-C796C9578D5E",
+      "name": "Radio Disney 94.3 Argentina",
+      "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/DISNEY_ARG_BA_ADP.aac",
+      "categories": [
+        "kids_family"
+      ],
+      "tags": [],
+      "countryCode": "AR",
+      "language": null,
+      "artwork": null,
+      "city": "Buenos Aires",
+      "genre": "Pop en Español"
+    },
+    {
+      "id": "6BFB35EE-0F67-5DC9-AA63-07C28967B473",
+      "name": "Radio Disney 92.1 México",
+      "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/XHFOFMAAC.aac",
+      "categories": [
+        "kids_family"
+      ],
+      "tags": [],
+      "countryCode": "MX",
+      "language": null,
+      "artwork": null,
+      "city": "Ciudad de México",
+      "genre": "Pop en Español"
+    },
+    {
+      "id": "82A534BF-4637-5FC1-8AB9-15768E247020",
+      "name": "Radio Disney 91.3 Brasil",
+      "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/DISNEY_BRA_SP.mp3",
+      "categories": [
+        "kids_family"
+      ],
+      "tags": [],
+      "countryCode": "BR",
+      "language": null,
+      "artwork": null,
+      "city": "São Paulo",
+      "genre": "Pop Brasileiro"
+    },
+    {
+      "id": "AB611450-314E-5CBE-8A46-99787D51FFC8",
+      "name": "Sonshine Kids",
+      "url": "https://rejoice.primcast.com/proxy/sonshine/sonshine",
+      "categories": [
+        "kids_family"
+      ],
+      "tags": [],
+      "countryCode": "US",
+      "language": null,
+      "artwork": null,
+      "city": null,
+      "genre": "Christian Kids"
+    },
+    {
+      "id": "4C8E49E1-D4F8-5182-A3DA-A9561F54FF3B",
+      "name": "Little Lizzards (95alive)",
+      "url": "http://95alive.net:8020/radio.mp3",
+      "categories": [
+        "kids_family"
+      ],
+      "tags": [],
+      "countryCode": "US",
+      "language": null,
+      "artwork": null,
+      "city": null,
+      "genre": "Christian Kids"
+    },
+    {
+      "id": "C144F878-9452-5188-9516-EE2D3898EE8D",
+      "name": "1.FM Movie Soundtrack",
+      "url": "http://strm112.1.fm/moviesoundtracks_mobile_mp3",
+      "categories": [
+        "kids_family"
+      ],
+      "tags": [],
+      "countryCode": null,
+      "language": null,
+      "artwork": null,
+      "city": null,
+      "genre": "Movie Soundtracks"
+    },
+    {
+      "id": "43BC6DDF-325E-504D-8D93-B5511BF18025",
+      "name": "Halloween Radio Kids",
+      "url": "https://radio1.streamserver.link:8030/hrk-aac",
+      "categories": [
+        "kids_family"
+      ],
+      "tags": [],
+      "countryCode": "US",
+      "language": null,
+      "artwork": null,
+      "city": null,
+      "genre": "Halloween Songs"
     }
   ]
 }
