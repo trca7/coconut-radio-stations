@@ -2938,6 +2938,20 @@
       "artwork": null,
       "city": null,
       "genre": "Halloween Songs"
+    },
+    {
+      "id": "8C0DEF77-C1CD-504A-BCE0-BE1899EBBBE3",
+      "name": "DPark Radio",
+      "url": "https://listen.openstream.co/7420/audio",
+      "categories": [
+        "kids_family"
+      ],
+      "tags": [],
+      "countryCode": "US",
+      "language": null,
+      "artwork": null,
+      "city": null,
+      "genre": "Disney Parks Music"
     }
   ]
 }
